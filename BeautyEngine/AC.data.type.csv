@@ -1,0 +1,654 @@
+﻿Aircraft type Id,Short name,Manufacturer,Model name,ICAO code,IATA code,Handling category,Fuel type,Fuel process,Max fuel capacity in liter,MTOW kg,MTOW ton,Wing span in meter,Wing area in m2,Length in meter,Height in meter,Number of seats,Range in km,De-ice category,Noise chapter,Noise category,Hanger category,Ground power type,Remarks,Export values,Number of engines,MTOW in US Pounds
+79ec6b89-f908-4919-ae0a-8d423dc30f3c, BE-400A,Raytheon,Hawker 400A,BE40,,B_JP8,Jet Fuel,Pressure,,8000,8,,,,,7,,A,,,,115V/AC - 220V/DC,ADP GA : 4,JP Handling Category(Japan): 8,2,17637
+25f78926-2ba8-4bc9-b726-84b3585a5742,*C406,Cessna,406,EINN,,B00,Jet Fuel,,,4468,5,,,,,,,,,,,,,,,9850
+aacb626d-822d-4465-89d5-4f1d06b30658,*CL650,Bombardier,650,EINN,,B08,,,,22000,22,,,,,,,,,,,,,,,48502
+63be3d6d-70df-446a-9cdb-dde2080ee863,269 A/B/C,Hughes,269,H269,,B00,Avgas,Overwing,0,1000,1,,0,,,2,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 2050,1,2205
+b3167c12-34a1-4d0d-81ee-887627f52399,500C,Hughes,500 Defender,H500,,B00,,,,1157,2,,,,,5,,,,,,,,,,2551
+58b3ae7f-ec24-4297-b093-fe0c48893e2d,530F,Hughes,530F,H500,,B00,,,,1610,2,,,,,5,,,,,,,,,,3549
+1f6a1d39-da8b-4741-898a-f2630ebfcad2,61 LONG-EZ,Rutan,Rutan Model 61 Long-EZ,LGEZ,,P01,,,,601,1,8,7.6,5.1,2.4,,3.2,,,,,,,,1,1325
+d20fe326-4965-47c5-8578-a1824ba5b8b2,A109A,Agusta,A-109,A109,,H01,Jet Fuel,Overwing,568,2600,3,11,,13.07,3.32,7,583,A,,,,28V/DC,,,2,5732
+94771e8a-5087-4d6c-8fc5-86b1d868795c,A109E,Agusta,A-109E,A109,,H01,Jet Fuel,Overwing,,2850,3,,,,,7,,A,,,,28V/DC,,,2,6283
+abafab23-8c56-4b4c-af9c-988378e96bd3,A109S,Agusta-Westland,A-109S Grand,A109,,H01,,,,3200,4,,,,,7,,,,,,,MTOW got from EASA operational evaluation report 18oct2010- LB has PDF saved,,,7055
+9b6c9ff7-c2f4-49db-ba73-47d8d2a0397c,A-119 Koala,Agusta-Westland,A-119 Koala,A119,,B00,,,,4250,5,,,,,6,,A,,,,,,,3,9370
+5b71bd71-ba32-4f2c-996d-7636a77e74ce,A-300-100,Airbus Industries,A-300-100,A30B,,C04,,,,157143,158,,,,,300,,,,,,,,JP Handling Category(Japan): 2,,346441
+fe7284f3-d628-4428-892b-5c1eadb0317c,A-300-200,Airbus Industries,A-300-200,A30B,,C04,,,,164971,165,,,,,380,,,,,,,,JP Handling Category(Japan): 2,,363699
+6f26bac7-c863-4b4e-a4f0-a7b80f6abaab,A-300-600,Airbus Industries,A-300-600,A306,AB6,C04,Jet Fuel,Pressure,62080,171500,172,44.84,,53.62,16.53,266,3420,E,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 2,2,378093
+ff8621df-d4b9-4f4f-84fd-c5fd1acd378b,A-300B2,Airbus Industries,A-300B2,A30B,ABX,C04,Jet Fuel,Pressure,,165000,165,44.85,,54.08,16.62,220,,E,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 2,2,363763
+85a182b9-dde1-4e77-89be-9faf5ebb2b1e,A-300B4,Airbus Industries,A-300B4-200,A30B,,C04,,,,165000,165,,,,,266,,,,,,,,,2,363763
+29d41d13-f722-47d3-8a77-67ab6e986bec,A300ST,Airbus Industries,A300ST Beluga,A3ST,,C04,Jet Fuel,Pressure,,155000,155,,,,,2,,E,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 121.00",2,341716
+131d5634-7dfc-40f6-97cc-48128e51c48a,A-310,Airbus Industries,A-310,A310,,C_JP3,Jet Fuel,Pressure,61070,157000,157,43.9,,46.66,15.8,220,8050,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 3, Singapore WSSS PF(Singapore): 102.85",2,346126
+e0054b36-988b-4cbd-9817-4d1123c60633,A-318,Airbus Industries,A-318,A318,318,C_JP4,,,,68000,68,,,,,107,,,,,,,,Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes,,149914
+864f8de4-c630-49de-b170-a440ba8bc0c6,A318CJ,Airbus Industries,A-318 Elite,A318,,C_JP4,Jet Fuel,Pressure,,68000,68,34.09,122.6,31.44,12.56,38,,C,,,,115V/AC - 220V/DC,Corporate Jet / ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 4",2,149914
+6d472f6c-e774-4cb0-8bd6-e4f07d772521,A-319,Airbus Industries,A-319,A319,,C_JP4,Jet Fuel,Pressure,29840,76000,76,34.1,,33.84,11.76,124,6800,C,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 4, MDJB - MDLR Handling(Dominican Republic): CAT VIII, Noise cat EGSS(STANSTED): CH3minus",2,167551
+77d28199-874b-481a-b98b-be8a9300c125,A319CJ,Airbus Industries,A-319 ACJ,A319,319,C_JP4,Jet Fuel,Pressure,34430,75500,76,34.1,,33.84,11.76,156,11100,C,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, MDJB - MDLR Handling(Dominican Republic): CAT VIII, Noise cat EGSS(STANSTED): CH4",2,166449
+41e0f5da-d40a-4b56-974d-ee220ee5fe63,A-320,Airbus Industries,A-320,A320,,C_JP4,Jet Fuel,Pressure,23859,77000,77,33.9,,37.6,11.8,180,5000,C,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): E, JP Handling Category(Japan): 4, MDJB - MDLR Handling(Dominican Republic): CAT VIII, MLW(Hawaii): 142200",2,169756
+26ae7ade-84b3-4cf8-b249-ea54c03a5c6c,A-321,Airbus Industries,A-321,A321,,C02,Jet Fuel,Pressure,23700,89000,89,34.1,,44.51,11.76,185,4400,C,,,,115V/AC - 220V/DC,ADP GA : 5,Singapore WSSS PF(Singapore): 98.00,2,196211
+c7f34b64-401a-45e1-8034-917a7b3ee3c8,A-330-200,Airbus Industries,A-330-200,A332,,C_JP2,Jet Fuel,Pressure,139100,230000,230,60.3,,58.8,17.4,293,12500,E,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 175.60",2,507063
+64a5a386-2fbd-4853-ab73-d3a1453cb36f,A-330-300,Airbus Industries,A-330-300,A333,,C05,Jet Fuel,Pressure,97170,230000,230,60.3,,63.6,16.85,300,10500,E,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 190.15",2,507063
+419c289a-c87b-4656-8c32-efb21ade6cda,A330-900,Airbus Industries,A330-900,A330-900,,C05,,,,242000,242,,,,,,,,,,,,,,,533519
+8f578613-329c-4a41-8a69-3ffaa4218f16,A-340-200,Airbus Industries,A-340-200,A342,,C_JP2,Jet Fuel,Overwing,155040,257000,257,60.03,,59.39,16.7,261,14800,E,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 175.60",4,566588
+3d17ce21-9552-4bc4-8a16-2d866b895585,A-340-300,Airbus Industries,A-340-300,A343,,C_JP2,Jet Fuel,Pressure,140640,253000,253,60.3,,63.6,16.85,335,13350,E,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 190.15",4,557769
+b5f041ea-eb28-489a-900d-9e09a9b9c9ef,A-340-500,Airbus Industries,A-340-500,A345,,C_JP2,Jet Fuel,Pressure,214810,372000,372,63.5,,67.9,17.1,375,16100,E,,,,115V/AC - 220V/DC,ADP GA : 5 MTOW per http://www.airbus.com/aircraftfamilies/passengeraircraft/a340family/a340-500/specifications/,"CAT LIDER(Brazil): E, JP Handling Category(Japan): 2, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 214.40",4,820120
+bba19198-da7d-48b0-b3ee-be0a19b325e1,A-340-600,Airbus Industries,A-340-600,A346,,C06,Jet Fuel,Pressure,195881,368000,368,63.45,,75.3,17.3,475,14360,E,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 233.80",4,811301
+9eebff73-0d12-4a9a-b03a-0dc62d4a819e,A-340-800,Airbus Industries,A-340-800,A388,,C06,Jet Fuel,Pressure,310000,560000,560,79.8,,73,24.1,525,14800,F,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 2,4,1234589
+ea083db0-930c-47ed-890b-5f8233bc0fbc,A350-1000,Airbus Industries,A350-1000,A35K,,C06,,,,319000,319,,,,,,,,,,,,,,,703275
+424bbdcb-595c-46b7-83cc-be520f221426,A350-900,Airbus Industries,A350-900,A359,,C05,,,,280000,280,,,,,,,,,,,,,,,617294
+a919484d-fd82-48a5-ae4b-81de7d04aac5,A380F,Airbus Industries,A380 Freighter,A38F,,C_JP1,Jet Fuel,Pressure,310000,560000,560,79.8,,73,24.1,525,10400,F,,,,115V/AC - 220V/DC,,Singapore WSSS PF(Singapore): 279.40,,1234589
+486096ee-a484-4310-9458-89daad40f13a,A-400M,Airbus Industries,A-400M Atlas,A400,,C_JP2 CG,,,,141000,141,,,,,,,,,,,,,,,310852
+13755a50-aec2-4019-91f8-66538750c81d,A700,Aerospatiale,Alouette 2,ALO2,,B00,,,,1600,2,,,,,4,,,,,,,,,,3527
+a933d785-56fd-4575-b127-f45f376182ca,AA5,American General,AG-5 Tiger,AA5,,B00,Avgas,Overwing,193,1090,2,9.6,,6.7,2.4,3,1270,A,,,,28V/DC,,,1,2403
+84e8be0e-0e2e-4183-9907-ac15a19c5bfd,AB-412,Agusta,AB-412,B412,,B01,Jet Fuel,Pressure & Overwing,1836,5398,6,14,,17.1,4.6,14,745,A,,,,28V/DC,,,2,11901
+916d20f7-e34c-42bc-85e0-c19f076f5a20,AC11,Rockwell,Commander 114,AC11,,B00,Avgas,Overwing,258,1500,2,9.98,,7.59,2.57,3,1240,A,,,,28V/DC,,,1,3307
+25670a92-c8f9-4dd2-823c-c784f25c9650,AC560,Rockwell,Aero Commander 560,AC50,,B00,,,,3061,4,,,,,5,,,,,,,,JP Handling Category(Japan): 8,,6748
+c60cacfa-7e94-48ff-ae9a-198c94fa5966,AC6719,Aerocomp,AC6719,6719,,B01,,,,6719,7,,,,,,,,,,,,,,,14813
+6b533ed3-bb9f-4ae6-a03d-dd75b2cab5a0,AC690,Rockwell,Turbo Commander 690,AC90,ACT,T02,Jet Fuel,Overwing,1453,4864,5,1430,,1350,450,5,2430,A,,,,28V/DC,,,2,10723
+d4257d40-2590-4566-8a4d-9dd1019c83f6,AC690A,Rockwell,Turbo Commander 690A,AC90,ACT,B00,Jet Fuel,,0,4864,5,,0,,,5,,A,,,,,,,2,10723
+548eae92-bd9a-4f23-8b86-e5217a2ceb9e,AC690D,Rockwell,Turbo Commander 690D,AC90,,B00,,,,4864,5,,,,,3,,A,,,,,,,2,10723
+12bc0fbf-9975-4c4b-932a-9f8c75a6c37d,AC695,Rockwell,Turbo Commander 695,AC95,,B01,,,,6009,7,,,,,8,,,,,,,,,,13248
+45b9f544-55a3-47c9-b129-faae8acfa34a,AC695A,Rockwell,Jetprop Commander 695A,AC95,,B01,,,,5079,6,,,,,6,,,,,,,,,,11197
+67ca0210-66f1-4af9-9c63-317b7adf7561,AC695B,Rockwell,Jetprop Commander 695B,AC95,,B01,,,,5329,6,,,,,6,,,,,,,,,,11748
+51f4ed7c-ee88-4c63-9b9a-8a37f18cecd4,AC80,Rockwell,Turbo Commander (680),AC80,,T01,,,,3864,4,,,,,6,,A,,,,,,,,8519
+a063a01e-b3a6-4b49-969a-c4ba85500f3e,AE-270,Aero Vodochody,Ae-270 Ibis,A270,,B00,,,,3670,4,,,,,8,,,,,,,,,,8091
+d781d941-6bdb-460f-a3fb-013c629ebc29,Aero Comp 10XL,Aerocomp,10XL,CA10,,T01,,,,1200,2,,,,,8,,,,,,,,,,2646
+fb034d25-3ab4-4076-828a-e8db5b93eba4,AIRSHOW,ZZZZ,,EINN,,B00,,,,1,1,,,,,,,,,,,,,,,2
+4ea52484-55d5-458a-8e38-f0a0c41341aa,ALO3,Aerospatiale,Alouette 3,ALO3,,H01,Jet Fuel,Overwing,575,2200,3,10.2,,9.7,2.75,5,1500,A,,,,28V/DC,,,1,4850
+b938bd6c-47b6-470a-9201-52d9dbee297f,AN12,Antonov,An-12,AN12,ANF,C_JP5,Jet Fuel,Pressure,,61000,61,,,,,14,,D,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 5,4,134482
+3e076469-e0b4-4e40-9c94-e44b87a23d89,AN124-100,Antonov,AN-124 Ruslan,A124,,C_JP1 CG,,,,405000,405,,,,,88,,,,,,,,"MLW(Hawaii): 727500, Singapore WSSS PF(Singapore): 248.35",,892872
+53c794dd-38e1-44b7-87af-ee380f6df358,AN140,Antonov,AN-140,A140,A4F,B14,Jet Fuel,Overwing,,45810,46,,,,,52,,B,,,,115V/AC - 220V/DC,,,4,100994
+b84a3c0f-f5b4-4dd6-8822-3a1cb34c2942,AN2,Antonov,AN-2,AN2,,B01,Jet Fuel,Overwing,0,5200,6,,0,,,12,,A,,,,115V/AC - 220V/DC,,,1,11464
+37a5ea12-2dc2-486d-8338-a86efde7bd9f,AN225,Antonov,AN-225 MRIYA,A225,,C06,Jet Fuel,,,600000,600,88.4,,,,0,,F,,,,,,Singapore WSSS PF(Singapore): 361.00,,1322773
+906179c3-c1e1-4c48-b019-c09860dd3607,AN24,Antonov,AN-24,AN24,,B07,Jet Fuel,Pressure,,21000,21,,,,,50,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,46297
+250aaa2c-d768-4101-80c6-ec3a33d9ef82,AN26,Antonov,AN-26,AN26,,B09,Jet Fuel,Pressure,,24000,24,,,,,40,,B,,,,115V/AC - 220V/DC,,,2,52911
+61aaec95-ef44-493b-824e-bf0482589668,AN72,Antonov,AN-72,AN72,AN7,B12,Jet Fuel,Pressure,,35000,35,,,,,68,,B,,,,115V/AC - 220V/DC,,,2,77162
+19d118a4-f906-46f5-954d-8d90cad33d02,AN74,Antonov,AN-74,AN74,,B13,,,,36500,37,,,,,52,,,,,,,,,2,80469
+74ef5968-c765-4eaa-8275-9159cd9fae93,AN8,Antonov,An-8,AN8,,B13,,,,40000,40,,,,,48,,,,,,,,,,88185
+2cba7b0d-8eb9-42ea-b4b4-9b4118fd1ea1,AP-68TP-600,Vulcan Air,AP-68TP-600 Viator,VTOR,,B00,,,,3000,3,,,,,,,,,,,,,,,6614
+8081fac4-34a0-424b-8add-cf014d22c89c,AS321,Eurocopter,AS-332L Super Puma,AS32,,H02,Jet Fuel,Pressure,,9350,10,,,,,24,,A,,,,115V/AC - 220V/DC,,,2,20613
+d22a0bde-03c1-4b0f-b95a-3768fed150d8,AS322,Eurocopter,AS-332L Super Puma II,AS32,,B02,Jet Fuel,Pressure,,9300,10,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,20503
+574679ea-c7cd-452f-82fa-8083f729cc24,AS350B2,Airbus Industries,AS-350B2 Ecureuil,AS50,,H01,Jet Fuel,Pressure,,2250,3,,,,,5,,A,,,,115V/AC - 220V/DC,,,1,4960
+a3c94201-4864-47d1-89b6-7cab0d5e2bd1,AS350B3,Eurocopter,AS-350B3,AS50,,B00,,,,2250,3,,,,,6,,,,,,,"MTOW got from airliners.net
+AS 350B3: equipped with Turbomeca Arriel 2B and system FADEC (Full Authority Digital Engine Control).",,,4960
+a3d33e82-de59-4fcd-911a-0c1fa8b926e8,AS355,Eurocopter,AS-355 Ecureuil 2,AS55,,H01,Jet Fuel,Pressure,,2600,3,,,,,5,,A,,,,115V/AC - 220V/DC,,,2,5732
+278a18d5-b7a2-4278-9b3a-425e86d2bb4d,AS365N,Eurocopter,AS-365 Dauphin 2,AS65,,H01,Jet Fuel,Pressure,1135,4250,5,,0,,,8,,A,,,,28V/DC,,,2,9370
+e07ed557-6cc4-44d7-9e19-2b26c97d5675,AS532,Eurocopter,Cougar,AS32,,B02,,,,9000,9,,,,,19,,B,,,,,Eurocopter AS532 Cougar,,,19842
+0597fdff-3966-47be-ac6f-f45b63fc5f38,AS565N,Eurocopter,AS-565 Panther,AS65,,B00,,,,4700,5,,,,,8,,A,,,,,,,2,10362
+4f999217-2741-4674-9059-186813b3eb27,ASTRA,IAI,1125 Astra,ASTR,,B_JP7,Jet Fuel,Pressure,,10660,11,,,,,6,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 20700,2,23501
+8db0a302-b760-4ee4-a949-23bcd85570ad,AT802,Air Tractor,Air Tractor 802,AT8T,,B02,,,,7257,8,18.06,37.25,10.95,3.89,2,1289,,,,,,,MLW(Hawaii): 16000,1,15999
+2a6f96b0-a523-4cc3-bb45-974faa74ac17,ATR42-200,ATR,ATR-42-200,AT42,,B06,Jet Fuel,Pressure,,16700,17,,,,,46,,B,,,,115V/AC - 220V/DC,,,,36817
+728adaf8-3d39-4447-9f2a-a89456898d2e,ATR42-300,ATR,ATR-42-300,AT43,,B06,Jet Fuel,Pressure,,16700,17,,,,,49,,B,,,,115V/AC - 220V/DC,,,2,36817
+6874bad0-c67f-4271-b655-f2a24feebb90,ATR42-400,ATR,ATR-42-400,AT44,,B06,Jet Fuel,Pressure,,17000,17,,,,,52,,B,,,,115V/AC - 220V/DC,,,2,37479
+618792b0-0af2-4f16-a593-d13d20554245,ATR42-500,ATR,ATR-42-500,AT45,,B07,Jet Fuel,Pressure,,18600,19,,,,,68,,B,,,,115V/AC - 220V/DC,,,2,41006
+fb5502cc-91d1-409d-89f2-91f441823a30,ATR42-600,ATR,ATR-42-600,AT46,,B07,,,,18600,19,,,,,50,,,,,,,,,,41006
+b87b6bdc-7a70-4374-9adc-91a59d58aaf6,ATR72-200,ATR,ATR-72-200,AT72,,B08,Jet Fuel,Pressure,,21500,22,,,,,66,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,47399
+86b1895e-5884-4c1c-8f0d-2c6077a97814,ATR72-500,ATR,ATR-72-500,AT75,,B08,,,,22500,23,,,,,74,,,,,,,,JP Handling Category(Japan): 6,,49604
+10d0e995-08d9-4faa-a411-84d9cbf69f64,ATR72-600,ATR,ATR-72-600,AT76,,C_JP6,,,,23000,23,,,,,72,,,,,,,,JP Handling Category(Japan): 6,,50706
+e60b782a-61e0-4dc5-aa0a-6198e4e525af,Aviat Husky A-1C,Aviat Aircraft,Husky A-1C,A1C,HUSK,T01,,,,1020,2,,,,,2,,,,,,,,,1,2249
+82d870a2-6921-4881-8ec7-b7b05cf8f4fb,AW-101,Agusta-Westland,AW-101 Merlin,EH10,,B05,,,,15600,16,,,19.5,6.6,,833,,,,,,,,3,34392
+bb83eb2c-de9a-40a9-8fc4-e66dbb0c36fc,AW109SP,Agusta-Westland,AW109SP Grand New,A109SP,,B00,,,,3175,4,,,,,7,,,,,,,,,,7000
+d7997839-279d-47b1-b9f2-f67733261e81,AW119,Agusta-Westland,AW-119 Koala,AW119,,H01,,,,2720,3,,,13,3.77,7,991,,,,,,,,1,5997
+f365613d-b38a-4d5d-a83b-c159321fbcc0,AW139,Agusta-Westland,AW-139,A139,,H02,Jet Fuel,,1562,6400,7,,0,16.65,4.95,15,568,A,,,,,,,2,14110
+613fd29e-8d19-41a5-b7b8-56515d7ac18f,AW169,Agusta-Westland,AW169,A169,,B00,,,,4850,5,,,,,,,,,,,,,,,10692
+2f82ae9c-7f66-44c1-990a-e42294cdd57c,AW189,Agusta-Westland,AW-189,A189,,H02,,,,8600,9,,,,,,,,,,,,,,2,18960
+9701f7e4-601b-4ec8-9323-640eada95188,B105,Eurocopter,BO-105,B105,MBH,H01,Jet Fuel,Overwing,,2500,3,,,,,4,,A,,,,115V/AC - 220V/DC,,,2,5512
+673dfe50-296d-4b32-8631-250237971d96,B18,Beech,18,BE18,,P03,Jet Fuel,Overwing,,5000,5,,,,,9,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11023
+dd3b32ee-2ebd-4bb6-9d8d-66fc72143009,B19,Beech,19 Sport,BE19,,P02,Jet Fuel,Overwing,,5000,5,,,,,3,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,11023
+b7de2bdb-f310-46fa-806e-d09b335a5b5e,B1900,Beech,1900 (CJ12),B190,,T02,Jet Fuel,Overwing,,7530,8,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,16601
+54b374ec-5210-4a5f-b228-456b68d14d94,B1900D,Raytheon,Beechcraft 1900D,B190,BEH,B02,Jet Fuel,Pressure,,7688,8,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,16949
+c93f149f-597c-4e5d-9fb1-1b8f1b32b042,B214ST,Bell,Bell-214ST SuperTransport,BSTP,,H02,,,,7937,8,,,,,16,,,,,,,,,,17498
+4cd58889-beab-4595-a90d-7395f46be17c,B412,Bell,412,B412,,H02,Jet Fuel,Overwing,,5398,6,,,,,13,,A,,,,115V/AC - 220V/DC,ADP GA 4,,2,11901
+e4d684e1-a516-4682-83e6-583165b2cc77,B427,Bell,Bell B427,B427,,H01,,,,2971,3,,,,,7,,,,,,,,,,6550
+2150c720-15a8-444a-b322-c56e5482958f,B429,Bell,429 GlobalRanger,B429,,H01,Jet Fuel,Overwing,821,3175,4,10.97,,13.1,4.4,7,722,,,,,,,,1,7000
+6026f6c6-a885-480c-b21d-f38ae32e891e,B430,Bell,430,B430,,H02,,,,5000,5,,,,,8,,A,,,,,,,2,11023
+8cd89a4d-13da-46ac-8417-7bcf653de50d,B505,Bell,505 Jet Ranger X,B505,,B00,,,,650,1,,,,,,,,,,,,,,,1433
+cdb3ccf2-74e1-4384-8d46-61cc69077af7,B707BJ,Boeing,707-300,B703,,C04,Jet Fuel,Pressure,,152000,152,,,,,147,,D,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 4, MLW(Hawaii): 190000, Singapore WSSS PF(Singapore): 102.85",4,335103
+39837a81-4536-46ef-b81f-e24356d05dde,B717-200,Boeing,717-200,B712,,C00,,,,54875,55,,,,,106,,,,,,,,JP Handling Category(Japan): 5,,120979
+f903c531-c5d6-4c59-89f9-eb3bfdd275d3,B720,Boeing,720,B720,,C03,Jet Fuel,Pressure,,107000,107,,,,,167,,C,,,,115V/AC - 220V/DC,ADP GA : 3,,4,235895
+6ce7782a-499a-42df-bbbd-bacdcab0b533,B727-100,Boeing,727-100,B721,,C_JP5,Jet Fuel,Pressure,,80000,80,32.9,,40.6,10.3,149,,C,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 5, MLW(Hawaii): 247000, Noise cat EGSS(STANSTED): CH3high",3,176370
+279b2f2b-82fb-4631-88ff-b6fd98b4f22e,B727-200,Boeing,727-200,B722,,C_JP5,Jet Fuel,Pressure,,95300,96,32.9,,46.7,10.3,189,,C,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 5, MLW(Hawaii): 150000, Noise cat EGSS(STANSTED): CH3high, Singapore WSSS PF(Singapore): 98.00",3,210101
+a8796f3f-7199-4ad8-804a-b101514309cb,B737-100,Boeing,737-100,B731,,B14,Jet Fuel,Pressure,,43999,44,,,,,100,,C,,,,115V/AC - 220V/DC,ADP GA : 2,"CAT LIDER(Brazil): E, JP Handling Category(Japan): 5, MLW(Hawaii): 101000",2,97001
+cfe959f8-2928-4671-a792-689fb5d76a8f,B737-200,Boeing,737-200,B732,,C_JP5,Jet Fuel,Pressure,,59000,59,,,,,130,,C,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 5, MLW(Hawaii): 105000, Noise cat EGSS(STANSTED): CH3high, Singapore WSSS PF(Singapore): 49.50",2,130073
+d27354ee-5c6c-47fd-a4b2-5aa1a958ffa2,B737-300,Boeing,737-300,B733,,C_JP5,Jet Fuel,Pressure,0,62820,63,,0,,,128,,C,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 5, MLW(Hawaii): 115800, Noise cat EGSS(STANSTED): CH3base, Singapore WSSS PF(Singapore): 49.50",2,138494
+ee3850c5-57cc-4849-bf16-ae5e8d2e5fb3,B737-300F,Boeing,737-300F,B733,,C_JP5,,,,63276,64,,,,,149,,C,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 5, Singapore WSSS PF(Singapore): 49.50",2,139500
+a25e5a70-bfd4-46e6-a44c-24e15f2f3fbd,B737-400,Boeing,737-400,B734,,C_JP5,Jet Fuel,Pressure,,79000,79,,,,,147,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 5, MLW(Hawaii): 124000",2,174165
+250066ac-e43e-4135-9926-5d46b3d4a277,B737-500,Boeing,737-500,B735,,C_JP5,Jet Fuel,Pressure,,61000,61,,,,,132,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 5, MLW(Hawaii): 110000, Singapore WSSS PF(Singapore): 49.50",2,134482
+4c64b854-f149-4853-a767-f29d90d33a11,B737-600,Boeing,737-600,B736,,C01,Jet Fuel,Pressure,,65000,65,,,,,132,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 5,2,143300
+3fbc9ec8-d7dd-4f0c-9559-5519ee0eff52,B737-700,Boeing,737-700,B737,,C_JP5,Jet Fuel,Pressure,,80000,80,34.3,,33.6,,149,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): E, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MLW(Hawaii): 128000, Noise cat EGSS(STANSTED): CH4",2,176370
+1d9b02f3-7d90-44c5-810c-8623f53455a5,B737-73Q,Boeing,737-400 Combi,B734,,C_JP5,,,,71000,71,,,,,72,,,,,,,,,,156528
+f0571be2-7bc2-4a1d-8ee3-07c2ae4e11d9,B737-800,Boeing,737-800,B738,,C_JP5,Jet Fuel,Pressure,0,79000,79,34.3,0,39.47,,162,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MLW(Hawaii): 144000, Noise cat EGSS(STANSTED): CH3base",2,174165
+29b6e1de-996c-4679-82a4-e89e457d5064,B737-900,Boeing,737-900,B739,,C_JP5,Jet Fuel,Pressure,,80000,80,34.3,,42.11,,189,,C,,,,115V/AC - 220V/DC,ADP GA :,JP Handling Category(Japan): 5,2,176370
+328059e1-6162-4502-aa7b-5f7e4d0f4c8e,B747-100,Boeing,747-100,B741,,C06,Jet Fuel,Pressure,,342000,342,,,,,452,,E,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 209.55",4,753981
+2114dc5c-16ad-4ce4-a4fb-e1cee5779601,B747-200,Boeing,747-200,B742,,C06,Jet Fuel,Pressure,,378000,378,,,,,480,,E,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 450000, Singapore WSSS PF(Singapore): 202.60",4,833347
+91619305-8c0e-437b-8251-f4de3961e381,B747-200F,Boeing,747-200 Freighter,B742,,C06,,,,378000,378,,,,,0,,,,,,,,MDJB - MDLR Handling(Dominican Republic): CAT IX,,833347
+6b5d989a-3d1d-4a31-a8fa-18a4060fe412,B747-300,Boeing,747-300,B743,,C06,Jet Fuel,Pressure,,377800,378,,,,,470,,E,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 585000, Singapore WSSS PF(Singapore): 209.55",4,832906
+6a535828-593c-4c94-89ff-ff6d625dfa2a,B747-300C,Boeing,747-300 Combi,B743,,C06,Jet Fuel,Pressure,,377800,378,,,,,470,,E,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 209.55",4,832906
+69a430d5-e01d-42bb-8b07-a969206a5cc0,B747-300F,Boeing,747-300 Freighter,B743,,C06,Jet Fuel,Pressure,,377800,378,,,,,565,,E,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 209.55",4,832906
+7025cb5f-cae4-4b42-90e5-682cca51f57a,B747-400,Boeing,747-400,B744,,C_JP1,Jet Fuel,Pressure,,395000,395,,,,,416,,E,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Noise cat EGSS(STANSTED): CH3high, Singapore WSSS PF(Singapore): 224.10",4,870826
+55395410-6396-4b1a-a03c-3f08f06a24d4,B747-400C,Boeing,747-400 Combi,B744,,C_JP1,Jet Fuel,Overwing,0,413000,413,,0,,,275,,E,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 224.10",4,910509
+7b7d98b8-87bc-4575-9967-8096323d5fff,B747-400F,Boeing,747-400 Freighter,B744,,C_JP1,Jet Fuel,Pressure,,396900,397,,,,,524,,E,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 224.10",,875015
+5146767c-0fb8-4b31-85f7-2479269502f5,B747-8,Boeing,747-8,B748,,C_JP1,,,,447696,448,,,,,467,,,,,,,http://www.boeing.com/boeing/commercial/747family/747-8_fact_sheet.page,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 250.60",,987001
+3a6c5f6a-24c8-4be4-b795-d32defed0b6e,B747SP,Boeing,747SP,B74S,,C_JP2,Jet Fuel,Pressure,,316000,316,,,,,440,,E,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 2, Noise cat EGSS(STANSTED): CH3high, Singapore WSSS PF(Singapore): 165.90",4,696661
+a7d3a27d-f404-4b8f-9de9-a145104397c1,B757-200,Boeing,757-200,B752,,C_JP4,Jet Fuel,Pressure,0,114000,114,,0,,,228,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 4, MLW(Hawaii): 210000, Noise cat EGSS(STANSTED): CH3minus",2,251327
+a14366c8-e567-4e3d-99e2-86cbb96529f1,B757-200BJ,Boeing,B757-200 Executive,B752,B752,C_JP4,,,0,105200,106,,0,,,62,,D,,,,,,"JP Handling Category(Japan): 4, Noise cat EGSS(STANSTED): CH3minus",2,231926
+a223dbb0-6ba1-441f-b407-cd15c403332a,B757-300,Boeing,757-300,B753,,C03,Jet Fuel,Pressure,,123000,123,,,,,240,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 4, MLW(Hawaii): 223990, Noise cat EGSS(STANSTED): CH3minus",2,271169
+ee9a982e-4559-4986-94aa-deae5b3826f8,B767-200,Boeing,767-200,B762,,C_JP3,Jet Fuel,Pressure,,176000,176,47.57,283.3,48.51,15.85,290,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 3, MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 300000, Noise cat EGSS(STANSTED): CH3base, Singapore WSSS PF(Singapore): 117.40",2,388014
+30a158ab-004e-4713-8437-ededd49fff04,B767-200ER,Boeing,767-200ER,B762,,C_JP3,Jet Fuel,Pressure,,175540,176,47.57,283.3,48.51,15.85,290,,D,,,,115V/AC - 220V/DC,,"MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 300000, Noise cat EGSS(STANSTED): CH3base, Singapore WSSS PF(Singapore): 117.40",2,386999
+f2772750-71d9-4da7-a339-eb88648998c7,B767-300,Boeing,767-300,B763,,C_JP3,Jet Fuel,Pressure,,158760,159,,,,,252,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 387000, Noise cat EGSS(STANSTED): CH3base, Singapore WSSS PF(Singapore): 131.95",2,350006
+dec9cd1e-025a-4f77-8729-4ac16c18557c,B767-300ER,Boeing,767-300ER,B763,,C_JP3,,,,186880,187,,,,,269,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, MDJB - MDLR Handling(Dominican Republic): CAT IX",,412000
+4f8daf52-e812-47e3-abf0-5415f31092b4,B767-400,Boeing,767-400,B764,,C05,Jet Fuel,Pressure,,204120,205,,,,,245,,D,,,,115V/AC - 220V/DC,,"MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 154.60",2,450008
+442db84f-2b9e-4914-b489-00fae4977c10,B777-200,Boeing,777-200,B772,,C_JP2,,,,247200,248,,,,,400,,,,,,,MTOW per Boeing Technical Document: http://www.boeing.com/commercial/777family/pf/pf_200product.html,"JP Handling Category(Japan): 2, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 190.15",,544983
+51d35643-53b3-4827-9992-04f65a60ae40,B777-200ER,Boeing,777-200ER,B772,,C_JP2,,,,297550,298,,,,,400,,,,,,,MTOW per Boeing Technical Document: http://www.boeing.com/commercial/777family/pf/pf_200product.html,"JP Handling Category(Japan): 2, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 233.80",,655985
+9b6eec6a-f7f7-4be7-be2a-f6b9b50cef3b,B777-200LR,Boeing,777-200LR,B772,,C_JP2,Jet Fuel,Pressure,,347450,348,,,,,301,,E,,,,115V/AC - 220V/DC,ADP GA : 5 MTOW per Boeing Technical Document: http://www.boeing.com/commercial/777family/pf/pf_lrproduct.html,"JP Handling Category(Japan): 2, MDJB - MDLR Handling(Dominican Republic): CAT IX, MLW(Hawaii): 468632",2,765996
+523eb803-0e0a-44a0-a604-dfe71b78353a,B777-300,Boeing,777-300,B773,,C_JP1,Jet Fuel,Pressure,,299370,300,,,,,550,,E,,,,115V/AC - 220V/DC,ADP GA : 5 MTOW per Boeing Technical Document: http://www.boeing.com/commercial/777family/pf/pf_300product.html,"JP Handling Category(Japan): 1, MDJB - MDLR Handling(Dominican Republic): CAT IX, Singapore WSSS PF(Singapore): 224.10",2,659998
+27c0caed-9d8f-41f6-affc-10b9de21f6f4,B777-F,Boeing,777-F,B77L,,C_JP2 CG,,,,260816,261,,,,,0,,,,,,,,MDJB - MDLR Handling(Dominican Republic): CAT IX,,575001
+12b33f82-786b-4256-bfb1-eefd31d08ed2,B787-8,Boeing,787-8,B787,,C_JP2,,,,227930,228,,,,,250,,,,,,,,Singapore WSSS PF(Singapore): 169.00,,502500
+a2c3ed60-2d4f-48ab-88a4-2b83f51cf4c7,B787-9,Boeing,B787-9,B787,,C05,,,,245000,245,,,,,,,,,,,,,,,540132
+5eabe1a0-dbca-4a4f-9f8f-812f408d1491,BAC-111 (200),British Aerospace,BAC-111 One-Eleven (200),BA11,,B12,,,,35828,36,,,,,97,,,,,,,,,,78987
+0691b073-e6e8-48ce-9b69-0cf18db8c02e,BAC-111 (400),British Aerospace,BAC-111 One-Eleven (400),BA11,,B13,,,,40136,41,,,,,89,,,,,,,,,,88485
+eac3c02e-3af3-45e4-875c-ddcbdd620275,BAC-167,British Aircraft Company (BAC),Strikemaster,JPRO,,B01,,,,5215,6,,,,,,,,,,,,,,,11497
+31b18f66-f009-4af9-8483-9a203a9ca20b,BAE146-100,British Aerospace,Bae 146-100,B461,,B13,Jet Fuel,Pressure,,38100,39,,,,,70,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,4,83996
+61616ae0-ac3c-44ff-b941-c1684b7c8b87,BAE146-200,British Aerospace,Bae 146-200,B462,,C_JP6,Jet Fuel,Pressure,,42185,43,,,,,112,,C,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, MLW(Hawaii): 81000",4,93002
+5a03f873-f2ec-4bfd-9015-a5101b93762b,BAE146-300,British Aerospace,Bae 146-300,B463,,B14,Jet Fuel,Pressure,,44225,45,,,,,128,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,4,97499
+6dbe66bb-e56f-42e8-b377-4a3f29cabd35,BAE-3200,British Aerospace,Jetstream Super 31,JS32,,B02,,,,7349,8,,,,,19,,,,,,,,,,16202
+5f2d3042-5572-4800-b9c3-5773b10de4e0,BBJ,Boeing,BBJ,B737,,C_JP5,Jet Fuel,Pressure,0,77560,78,3579,0,3363,1205,19,11701,C,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): E, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MDJB - MDLR Handling(Dominican Republic): CAT VIII, Noise cat EGSS(STANSTED): CH3minus",2,170991
+5c2238b4-8472-4ffd-a76b-e9662a4acaaa,BBJ2,Boeing,BBJ2,B738,,C_JP5,Jet Fuel,Pressure,,79015,80,,,,,63,,C,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MDJB - MDLR Handling(Dominican Republic): CAT VIII, Noise cat EGSS(STANSTED): CH3minus",2,174198
+54e2d148-9a69-43c6-9c32-3d7cffa30468,BBJ3,Boeing,BBJ3,B739,,C_JP5,,,,84807,85,,,,,215,,,,,,,,"JP Handling Category(Japan): 5, MDJB - MDLR Handling(Dominican Republic): CAT VIII",,186967
+bfaf3366-e82b-4eb2-ac38-55c9af12766b,BD-700,Bombardier,Global 7000,GL7T,,B_JP7,,,,48194,49,,,,,,,,,,,,,,,106250
+7dc2f4b8-5abd-4dce-9eb3-b868a12e4a4c,BE23,Beech,23 Musketeer,BE23,,B00,,,,1091,2,,,,,4,,A,,,,,,Aruba MTOW(Aruba): 1091,1,2405
+35ed7017-3d66-498a-ad03-43fe08ce46f3,BE-400,Beech,Hawker 400,BE40,,B_JP8,Jet Fuel,Overwing,,7394,8,13.3,,14.8,4.2,7,2744,A,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): C, JP Handling Category(Japan): 8, SIRIO SPA Discount(Italy): Beech 400",2,16301
+b3276a5f-38e5-440b-9e84-902a7bc8192f,BE-400XP,Raytheon,Hawker 400XP,BE40,H25,B_JP8,Jet Fuel,Pressure,,8000,8,,,,,7,,A,,,,115V/AC - 220V/DC,ADP GA : 3,JP Handling Category(Japan): 8,2,17637
+80d0f5e9-fada-4012-b7e2-592191a9be20,BE65,Beech,65 Queen Air,BE65,,P03,Jet Fuel,Overwing,0,5000,5,,0,,,9,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11023
+25492892-e0fe-4180-9835-ed2da481b9d2,BE99,Raytheon,Airliner,BE99 ,,T02,Jet Fuel,Pressure,,5000,5,,,,,15,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11023
+88293ceb-764f-48e6-abd6-3e3d71193fb1,Beech 1900,Raytheon,1900,B190,BE1,B02,Jet Fuel,Pressure,,7530,8,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,16601
+52550998-bb99-4f96-a69c-c45d7a313e43,Beech 200,Raytheon,200 Super King Air,BE20,,T02,Jet Fuel,Pressure,,6000,6,,,,,13,,A,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 8, Noise cat EGSS(STANSTED): CH14",2,13228
+94df019f-26f2-43fc-9c09-cd24ff5af3c2,Beech 2000,Beech,2000 Starship,STAR,,B01,,,,6757,7,,,,,8,,,,,,,,Noise cat EGSS(STANSTED): CH14,,14897
+f4d26e05-1e9a-41ed-9b37-fc2927310fe6,Beech 300,Raytheon,300 Super King Air,BE30,,T02,Jet Fuel,Pressure,0,5670,6,,0,,,6,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,12500
+bc1131d5-9736-49e8-98ff-c6bce0997ab9,BEECH 33,Raytheon,33 Debonair,BE33,,P02,Avgas,Overwing,0,1360,2,,0,,,4,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,2998
+8a5fbfb7-14c2-4b11-8eab-61741eb31306,Beech 35,Raytheon,35 Bonanza,BE35,BEP,P02,Avgas,Overwing,,1636,2,,,,,5,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,3607
+42e79bf2-8c9f-4d90-8f87-4fea80362f0d,BEECH 350,Hawker Beechcraft,350 Super King Air,B350,,T04_JP8,Jet Fuel,Overwing,,6804,7,,,,,11,,A,,,,28V/DC,,CAT LIDER(Brazil): C,2,15000
+eb8fd3e3-44ca-4a7f-bb25-ed8038b5a420,Beech 36,Raytheon,36 Bonanza,BE36,,P02,Avgas,Overwing,,1659,2,,,,,6,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,3657
+e0e5644e-34d6-42aa-8235-00fde779aca9,Beech 50,Beech,50 Twin Bonanza,BE50,,B00,,,,2494,3,,,,,5,,,,,,,,,,5498
+2ac92bc1-a8c9-404f-88ff-7e6c8bcbd620,Beech 55,Beech,55 Baron,BE55,,P03,Avgas,Overwing,0,2409,3,,0,,,6,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,5311
+4873e118-6f04-47d0-bdb5-9b7cd9d4c8ab,Beech 56,Beech,56 Turbo Baron,BE56,,B00,,,,2717,3,,,,,4,,,,,,,,,,5990
+13c77fe3-960d-4c06-a068-12775d49472c,Beech 58,Beech,58 Baron,BE58,,P03,Avgas,Overwing,0,2818,3,,0,,,4,,A,,,,115V/AC - 220V/DC,ADP GA : 5,MLW(Hawaii): 5400,2,6213
+483d173e-b440-49b1-894d-d2f3f9d75dc3,Beech 60,Raytheon,60 Duke,BE60,,P03,Avgas,Overwing,,5000,5,,,,,5,,A,,,,115V/AC - 220V/DC,ADP GA : 4,MLW(Hawaii): 6775,2,11023
+887f9a4a-ebfc-4a3a-8004-d9e73b654a29,Beech 70,Beech,70 Queen Air,BE70,,B00,,,,3719,4,,,,,9,,,,,,,,,,8199
+f3d3a636-758f-41f8-afd1-035dc07435f8,Beech 76,Beech,76 Dutchess,BE76,,P02,Jet Fuel,Overwing,0,5000,5,11.58,16.8,8.85,2.89,4,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11023
+6378f5b0-48d6-4847-beb4-39b17da8d67a,Beech 77,Beech,77 Skipper,BE77,,B00,,,,760,1,,,,,2,,,,,,,,,,1676
+49c5063d-2537-48d6-9a5e-51a89a2d31b2,Beech 80,Beech,80 Zamir,BE80,,P04,Jet Fuel,Overwing,,5000,5,15.32,,10.82,4.33,6,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11023
+65a0a9a6-a0d7-4715-be4e-2ec36e7ae1f2,Beech 88,Beech,88 Queen Air,BE88,,B00,,,,3991,4,,,,,9,,,,,,,,,,8799
+288e8c80-b5fb-4253-929d-0494b2568228,BEECH 90,Beech,90 King Air,BE9L,BEA90,T04_JP8,Jet Fuel,Overwing,,4581,5,,,,,6,,A,,,,115V/AC - 220V/DC,ADP GA : 4,"CAT LIDER(Brazil): C, MLW(Hawaii): 9170",2,10099
+fe9c2f6a-fbf5-43c6-a2ff-bc4f4ae62fa9,Beech 90F,Beech,F90 King Air,BE9T,,B00,Jet Fuel,Overwing,0,4591,5,,0,,,5,,A,,,,115V/AC - 220V/DC,ADP GA : 4,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00",2,10121
+90874254-f751-405f-84fa-005dfdadb0c3,Beech 95,Beech,95 Travel Air,BE95,,B00,,,,1859,2,,,,,4,,,,,,,,,,4098
+c6f69d8a-d0a9-4261-832e-ff79e31f81d8,Beech King Air (100),Raytheon,King Air (100),BE10,,T02,Jet Fuel,Pressure,,5182,6,,,,,13,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,11424
+0c466080-d0d6-4eba-afd0-a482f212f1d5,BELL 212,Bell,212,B212,,H01,Jet Fuel,Overwing,,5080,6,,,,,14,,A,,,,115V/AC - 220V/DC,,,2,11199
+4440dfc0-bc0d-4c59-a1e4-41cde27e6e2a,BELL 214B,Bell,214B,B214,,H01,Jet Fuel,Overwing,,3442,4,,,,,9,,A,,,,115V/AC - 220V/DC,,,1,7588
+b12cf9f7-a993-4f55-888c-0bb901675881,BELL 222,Bell,222,B222,,B00,,,,2000,2,,,,,6,,A,,,,,,,,4409
+27ef3565-f42a-4192-8675-b4004f6a0f92,BELL 230,Bell,230,B230,,B00,Jet Fuel,,,3818,4,,0,,,4,,,,,,,,,2,8417
+47da4dc5-9dea-4bfb-86da-c48329f58c6f,Bell Jet Ranger 407,Bell,Bell Jet Ranger 407,PHNL,,B00,Jet Fuel,,,2722,3,,,,,5,,,,,,,,MLW(Hawaii): 11900,,6001
+ee5d5399-dd36-4940-aa70-8070ab45322b,BELL206-B,Bell,206B JetRanger CH-136,B06,,H01,Avgas,,,1455,2,,,,,4,,A,,,,,,,,3208
+bd618b2f-2098-472a-bfdd-e4dd3f7c6153,BELL206-II,Bell,206B JetRanger II,B06,,B00,Jet Fuel,Overwing,,1360,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,2998
+28f3147e-1330-493b-834d-165b919817da,BELL206-III,Bell,206B JetRanger III,B06,,B00,Jet Fuel,Pressure,,1521,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,3353
+55dfcb5d-8907-4c46-8051-337549f06494,BELL206L-4,Bell,206B JetRanger L-4,B06,,B00,,,,963,1,,,,,4,,,,,,,MTOW got from Bell web site : http://www.bellhelicopter.com/en_US/Commercial/1291148332333.html#/?tab=features-tab,,,2123
+2bc9cf5a-b1b3-4875-8017-1f77c8404376,BELL407,Bell,407,B407,,H01,Jet Fuel,Overwing,1334,2722,3,10.67,89,12.7,3.56,6,598,A,,,,115V/AC - 220V/DC,,,1,6001
+26fefb4b-53fe-4fa8-bad6-1c829e1523e6,BK17,Eurocopter,BK-117B,BK17,,H01,,,,3350,4,,,,,10,,,,,,,,,,7385
+815ce448-c828-41a7-a097-4bea96e5e17d,BN-2A,Britten-Norman,BN-2A Mk3 Trislander ,TRIS,,B00,,,,3000,3,,,,,16,,A,,,,,,,3,6614
+3bee01a3-010e-49b4-bf38-e8cb2450ae1e,BN-2T,Britten-Norman,BN-2T Turbine Islander,BN2T,,P02,Jet Fuel,Pressure,,2993,3,,,,,9,,A,,,,115V/AC - 220V/DC,,,2,6598
+10963f27-80e8-4bee-ab65-a10ff0a4ca6b,C12,Raytheon,200 Super King Air (C12),BE20,,T04_JP8,Jet Fuel,Pressure,,5670,6,,,,,13,,A,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 8, Noise cat EGSS(STANSTED): CH14",2,12500
+cf595930-552f-4b8b-b480-2c88cb0042b8,C130,Lockheed,C-130 Hercules,C130,,C_JP5,Jet Fuel,Pressure,,62000,62,,,,,5,,D,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 5, MLW(Hawaii): 135000",4,136687
+04fce9b4-4707-4f88-b0f4-72f6e0cc5e34,C135FR,Boeing,Stratolifter,C135,,C04,Jet Fuel,Pressure,,152000,152,,,,,3,,D,,,,115V/AC - 220V/DC,KC135 Tanker model / ADP GA : 4,,4,335103
+62d8026f-55c1-454e-ac34-2c3d089aaabd,C152,Cessna,A152 Aerobat,C152,,B00,Avgas,Overwing,,1000,1,,,,,2,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,2205
+1bc2bfdd-799f-44ef-86ea-abfea236f950,C160,Transall,C-160,C160,,C00,Jet Fuel,Pressure,0,52000,52,,0,,,90,,D,,,,115V/AC - 220V/DC,ADP GA : 4,MLW(Hawaii): 103615,2,114640
+d90badc5-5cc6-4833-9418-22a6124b797a,C17,Boeing,C-17 Globemaster 3,C17,,C05,Jet Fuel,Pressure,134556,265000,265,51.75,0,53,,102,,E,,,,115V/AC - 220V/DC,ADP GA : 5,,4,584225
+3081d9cd-2d14-48ee-ab98-13dde720f258,C172,Cessna,172 Skyhawk,C172,,B00,Avgas,Overwing,,2000,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,4409
+8adb11c2-2e62-4f57-8f0a-6cfb34c885f5,C177,Cessna,177 Cardinal,C177,,B00,Avgas,Overwing,,1133,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,2498
+5cd05d4a-a392-4722-84ba-744be02faf0d,C182,Cessna,182 Skylane,C182,,B00,Avgas,Overwing,,1341,2,,,,,3,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 2500,1,2956
+b2aa0c49-dc02-4ef5-b3f3-4be22989cef7,C185,Cessna,185 Skywagon,C185,,P02,Avgas,Overwing,,1520,2,10.92,16.16,7.85,2.36,5,1061,A,,,,28V/DC,,,1,3351
+11217069-0b04-445e-aadf-134848b30966,C190,Cessna,190,C190,,B00,Jet Fuel,Overwing,,4000,4,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,8818
+e5f5b321-821c-4d89-b84e-f442b04f77f1,C195,Cessna,195,C195,,B00,Jet Fuel,Overwing,,4000,4,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,8818
+05c22dc1-1dbb-4c06-8f02-d0565b9fe318,C2,Grumman,C-2 GREYHOUND,C2,,B05,,,,15310,16,,,,,,,,,,,,,,,33753
+accebde0-738a-41b9-9520-a95621f81ec6,C205,Cessna,205,C205,,B00,Jet Fuel,Pressure,,2000,2,,,,,6,,A,,,,115V/AC - 220V/DC,,,1,4409
+feac2f85-adbe-46f6-ae3d-354175736ccd,C206,Cessna,206 Super Skywagon,C206,,B00,Jet Fuel,Pressure,,1636,2,,,,,6,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 3600,1,3607
+921c4c1c-f7d3-4606-92e6-7b4ee3a2edc4,C207,Cessna,Skywagon 207,C207,,B00,Jet Fuel,Overwing,,2000,2,,,,,8,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 3800,1,4409
+563e07f3-5089-40a0-86d5-a0c821d14825,C208,Cessna,208 Caravan 1,C208,,T01,Jet Fuel,Pressure,644,3969,4,15.88,26,12.67,4.32,14,2000,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 8500,1,8750
+d371a89e-103b-4642-818c-4cfaa4e3094d,C208 AMPHIBIAN,Cessna,208 Grand Caravan,C208,,T04_JP8,,,,3629,4,,,,,14,,,,,,,,MLW(Hawaii): 7800,,8001
+6384d8fe-8c85-4433-ab91-5ca40f403801,C20H,Gulfstream,Gulfstream C-20H (GIV),GLF4,GRJ,B_JP7,Jet Fuel,Pressure,0,33203,34,23.7,88.3,26.9,7,19,,B,,,,115V/AC - 220V/DC,US Air Force model,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,73200
+4950c270-1d02-4902-a179-cccb6603c2c4,C210,Cessna,210 Centurion,C210,,T04_JP8,Jet Fuel,Overwing,,2000,2,,,,,4,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 3800,1,4409
+ccb546df-3472-4ee0-a64b-7c29a9ebf76c,C27J,Alenia,C-27J Spartan ,C27J,,B11,,,,30500,31,,,,,60,,B,,,,,,,2,67241
+25ecc825-7bf6-4ae6-a15e-d8cf88babd81,C295M,Casa,C-295,C295,,B09,Jet Fuel,Pressure,,24000,24,25.81,,24.5,8.6,71,,,,,,,,Noise cat EGSS(STANSTED): CH3minus,2,52911
+a3c0baad-f282-4e5c-9d7c-e5901d833c1a,C303,Cessna,Crusader,C303,,B00,Jet Fuel,Overwing,,2336,3,,,,,5,,A,,,,115V/AC - 220V/DC,,,2,5150
+d33ac0f7-df20-4227-98f2-51d95b355204,C310,Cessna,310,C310,,P03,,,,2500,3,,,,,6,,A,,,,,,,2,5512
+5fc85f29-0f0e-4c46-82ac-5c5ef53f441f,C-32,Boeing,C-32 (B757),C32,,C_JP3 CG,,,,116100,117,,,,,45,,,,,,,,JP Handling Category(Japan): 4,,255957
+7723af13-d92b-46d9-bc15-2847cfcdd934,C335,Cessna,CESSNA 335,C335,,B00,,,,2719,3,11.62,17.1,10.46,3.84,6,774,,,,,,,,,5994
+80a42178-96da-475e-b6b5-717cf9374a80,C337,Cessna,337 Super Skymaster,C337,,P01,,,,1995,2,11.6,18.7,9.1,2.8,6,,,,,,,,,2,4398
+ca5ef5f3-a5c6-4250-9bd7-1495cd9a4627,C340,Cessna,340,C340,,B00,Avgas,Overwing,0,2719,3,,0,,,6,,A,,,,115V/AC - 220V/DC,,,2,5994
+0e6a6e15-972b-49f4-9b0d-405b3ac7c9b3,C402,Cessna,402,C402,,T01,Jet Fuel,Overwing,,3114,4,,,,,6,,B,,,,115V/AC - 220V/DC,,MLW(Hawaii): 6200,2,6865
+1237dc7b-9a12-42e2-96e8-389acffd1142,C404,Cessna,404 Titan,C404,,T01,Jet Fuel,Overwing,,3810,4,,,,,8,,B,,,,115V/AC - 220V/DC,,,2,8400
+a046d248-de0c-490a-87a4-2a45b6403242,C40B,Boeing,C40B BBJ (737-700),B737,,C_JP5,Jet Fuel,Pressure,,77560,78,,,,,148,,C,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MDJB - MDLR Handling(Dominican Republic): CAT VIII, Noise cat EGSS(STANSTED): CH4",2,170991
+d3b8246d-d46c-48b4-b0e5-023ebb476cc8,C40C,Boeing,C40C BBJ (737-7CP),B737,,C_JP5,Jet Fuel,Pressure,,77560,78,,,,,40,,C,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 5, MDJB - MDLR Handling(Dominican Republic): CAT VIII",2,170991
+99080618-603b-45e6-a91e-c58dbd062749,C414,Cessna,414 Chancellor,C414,,T01,Jet Fuel,Overwing,,3068,4,13.5,21,11.1,3,8,,A,,,,115V/AC - 220V/DC,,Aruba MTOW(Aruba): 3068,2,6764
+f20efee1-3ad9-4a5e-89ce-6fc0ce8e24a2,C421,Cessna,421 Golden Eagle,C421,,T01,Jet Fuel,Overwing,,3103,4,12.2,18.6,10.3,5,6,,A,,,,115V/AC - 220V/DC,,,2,6841
+e39e0801-7504-4b25-ba43-a5313a2e33ce,C425,Cessna,Conquest 1,C425,,T01,Jet Fuel,Overwing,,3710,4,,,,,6,,A,,,,115V/AC - 220V/DC,,,2,8179
+9c6d8e48-2fa1-457e-afc9-fab707552fcc,C441,Cessna,Conquest 2,C441,,T01,Jet Fuel,Overwing,,4468,5,,,,,8,,A,,,,115V/AC - 220V/DC,,,2,9850
+dde0b604-61c5-4aba-9f9d-5a6a72029db6,C5,Lockheed,Galaxy,C5,,C06,,,,380000,380,,,75.3,19.8,7,,F,,,,,ADP GA : 3,,4,837756
+639cbf45-af5c-461c-8c2a-8bdbb807b534,C500,Cessna,500 Citation 1,C500,,B01,Jet Fuel,Pressure,,6000,6,13.3,24.2,13.3,4,6,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13228
+6414050b-1d4e-434a-949c-3e315902e7a6,C501,Cessna,501 Citation 1SP,C501,,B01,Jet Fuel,Pressure,,6000,6,14.4,25.9,13.3,4,5,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): C, MLW(Hawaii): 11000",2,13228
+5491b0ff-15a7-4075-ba7a-2c18e2f9cb7e,C510,Cessna,510 Citation Mustang,C510,CNJ,B_JP8,Jet Fuel,Overwing,1461,3930,4,13.2,0,12.4,4.1,5,2130,A,,,,28V/DC,ADP GA : 4,"CAT LIDER(Brazil): C, Noise cat EGSS(STANSTED): CH14",2,8664
+7d32dec1-6bd3-4de3-aaac-c8eb2c617850,C525,Cessna,525 Citation CJ1,C525,,B_JP8,Jet Fuel,Pressure,,4853,5,,,,,5,,A,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): C, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, Noise cat EGSS(STANSTED): CH14",2,10699
+f61b1341-bfd0-40df-a3af-85b03e3c2732,C550,Cessna,552 Citation 2,C550,,B_JP8,Jet Fuel,Pressure,,7000,7,15.9,31.8,14.4,5,6,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"MLW(Hawaii): 12700, Noise cat EGSS(STANSTED): CH14",2,15432
+bf34e122-77e3-4cef-9673-c7cc5ca5214c,C550B,Cessna,552 Citation Bravo,C550,,B_JP8,,,,6849,7,,,,,8,,,,,,,,Noise cat EGSS(STANSTED): CH14,,15099
+100c8957-2680-45a5-b218-1cfa00111900,C551,Cessna,551 Citation 2SP,C551,,B01,Jet Fuel,Pressure,,7000,7,15.9,30,14.4,5,8,,B,,,,115V/AC - 220V/DC,ADP GA : 5,Noise cat EGSS(STANSTED): CH14,2,15432
+9e3d3fb3-b3f1-44fd-b7af-cefb433d3872,C560,Cessna,560 Citation 5,C560,,B02,Jet Fuel,Pressure,,8000,8,15.9,31.8,14.9,5,8,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 8, MLW(Hawaii): 27100, Noise cat EGSS(STANSTED): CH4",2,17637
+8b545dcf-e53b-4175-b544-5a39f144dc09,C560E,Cessna,Citation Encore,C560,,B_JP8,,,,7542,8,,,,,7,,,,,,,,JP Handling Category(Japan): 8,,16627
+9c72e6e4-30bc-4532-aed1-a4b48c294e16,C560EP,Cessna,Citation Encore Plus,C560,,B02,,,,9161,10,,,,,8,,,,,,,,JP Handling Category(Japan): 8,,20197
+6686c0cf-82e1-43f0-b5eb-d0251bb3563f,C560U,Cessna,Citation Ultra,C560,,B02,Jet Fuel,,0,7212,8,,0,,,8,,A,,,,,,JP Handling Category(Japan): 8,2,15900
+b5800627-9086-4929-a83b-8c20bceffc0d,C560XL,Cessna,Citation Excel,C56X,,B_JP7,Jet Fuel,Pressure,,9071,10,17,,15.8,5,8,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH4",2,19998
+0bf20fd5-e69a-4687-aed6-fb5119e157d0,C560XLS,Cessna,Citation XLS,C56X,,B_JP7,Jet Fuel,Pressure,,9163,10,,,,,9,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",,20201
+c67089ae-4892-4aa5-8fe7-e91c14805786,C650-III,Cessna,Citation 3,C650,,B_JP7,Jet Fuel,Pressure,,9980,10,16.3,29,16.9,5,8,,B,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 7, MLW(Hawaii): 20000",2,22002
+49d86f92-0c4d-4b2a-a10a-d401d9888445,C650-VI,Cessna,Citation 6,C650,,B_JP7,Jet Fuel,Pressure,,10183,11,16.3,29,16.9,5,6,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 7,2,22450
+df1b33c9-e414-4e3c-a19e-ee11044ec539,C650-VII,Cessna,Citation 7,C650,,B_JP7,Jet Fuel,Pressure,0,10183,11,16.3,29,16.9,5.1,8,4110,B,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH3minus",,22450
+7637e34c-5cac-4ad9-b367-2ead81ca171a,C680,Cessna,680 Citation Sovereign,C680,680,B_JP7,Jet Fuel,Pressure,,13744,14,19.2,510,19.3,6.2,8,5273,,,,,28V/DC,,Noise cat EGSS(STANSTED): CH14,2,30300
+de3d523b-b8a1-4177-9f11-3c0213c6ea43,C680A,Cessna,Citation Latitude,C68A,,B_JP7,,,,13971,14,,,,,9,,,,,,,,Noise cat EGSS(STANSTED): CH14,2,30801
+9d3b4e6e-900e-4887-8f35-fbee7feed830,C700,Cessna,Cessna Citation Longitude,C700,,B00,,,,18,1,,,,,,,,,,,,,,,40
+1ea10267-1343-4e25-9245-e2809cc87395,C750X,Cessna,750 Citation 10,C750,,B_JP7,Jet Fuel,Pressure,0,16409,17,19.5,49,22,5.8,12,,B,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): D1, JP Handling Category(Japan): 7, MLW(Hawaii): 31800, Noise cat EGSS(STANSTED): CH4",2,36176
+ea3bf091-beb1-41a5-8b0d-c2c1ec99e3ef,C9,McDonnell Douglas,VC-9,DC93,,B14,Jet Fuel,Overwing,0,42000,42,28.47,0,36.37,8.38,115,3030,C,,,,115V/AC - 220V/DC,ADP GA : 2,JP Handling Category(Japan): 5,,92594
+6ee0e248-e5a2-4d4b-863e-71f79da974c8,CA8,Comp Air,Comp Air 8,CA8,,T02,,,,2540,3,,,,,7,,,,,,,,,,5600
+3d8654ad-17c9-4808-9cfa-66155ee97423,CASA212,Casa,C-212 Aviocar,C212,,B01,Jet Fuel,Pressure,,6300,7,,,,,26,,A,,,,115V/AC - 220V/DC,,,2,13889
+b383fb7c-5452-44c1-be10-1b5ebf00dcbc,CASA235,Casa,CN-235 Persuader,CN35,,B05,Jet Fuel,Pressure,,15100,16,,,,,45,,A,,,,115V/AC - 220V/DC,,,2,33290
+bc12e083-ce8d-4f56-aed5-c9c067d6fe09,Cessna P210,Cessna,P210 Pressurized Centurion,P210,,B00,,Pressure,,2000,2,,,,,5,,A,,,,,,,1,4409
+efbd92f6-3aa9-4f43-9acd-e785ebf4d8f1,CH300,Bellanca,CH300 Pacemaker,CH300,,B00,,,,1847,2,14.1,,8.5,2.5,5,1086,,,,,,,MLW(Hawaii): 4063,1,4072
+5fac7422-72ff-4a4e-8d25-bdda7f1868e5,CHALLENGER 650,Bombardier,Bombardier Challenger 650,CL60,,B_JP7,Jet Fuel,,,22000,22,19.6,,20.85,,10,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Noise cat EGSS(STANSTED): CH14",2,48502
+485889c9-2088-432c-88c1-661fa7654cae,CHINOOK,Boeing,CH-47 Chinook ,H47,,H02,Jet Fuel,Pressure,0,19500,20,,0,,,33,,C,,,,115V/AC - 220V/DC,,,2,42990
+e5e4ebf9-55a9-44ac-9f63-25f7c7f82a46,CJ2 - 525A,Cessna,525A Citation CJ2,C25A,,B_JP8,Jet Fuel,Pressure,,5670,6,,,,,6,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00",2,12500
+4a24f1f0-c865-4c73-ad65-3dcb57e0c9ce,CJ3 -525B,Cessna,525B Citation CJ3,C25B,,B_JP8,Jet Fuel,Pressure,,6291,7,,,,,7,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13869
+cbb35654-b8ed-4ef1-b60b-29588804ecb0,CJ4 - 525C,Cessna,525C Citation CJ4,C25C,,B_JP8,Jet Fuel,Pressure,,7688,8,,,,,9,,A,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Noise cat EGSS(STANSTED): CH14",2,16949
+5d57efbd-3291-48e2-9fe9-f6079d232502,CL215P,Canadair,CL-215,CL2P,,B07,Jet Fuel,Pressure,,19730,20,,,,,30,,B,,,,115V/AC - 220V/DC,,,2,43497
+54a5fa75-8dc2-48b0-aa18-c79e77c451e5,CL215T,Canadair,CL-415 SuperScooper,CL2T,,B07,Jet Fuel,Pressure,,19730,20,,,,,8,,B,,,,115V/AC - 220V/DC,,,2,43497
+bcf3729e-a5ff-4ae6-849a-21ac8bdd69be,CL30,Bombardier,Challenger 300,CL30,CL3,B_JP7,Jet Fuel,Pressure,8039,17622,18,19.46,48.5,20.92,6.2,8,5741,B,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): D1, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): Supervision Fees Discount (One Empty Leg) 237.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 33750, Noise cat EGSS(STANSTED): CH14",2,38850
+c2828b52-1f87-4429-906b-981150855c76,CL-350,Bombardier,Challenger 350,CL35,,B_JP7,,,,18416,19,21,,20.92,,,,,,,,,,Noise cat EGSS(STANSTED): CH14,,40600
+7cfc8d2b-7757-41e9-8a18-dcf25cfe01d0,CL60 (600),Bombardier,Challenger 600,CL60,CCJ,B_JP7,Jet Fuel,Pressure,,20457,21,18.9,41.8,20.9,6,19,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 36000, Noise cat EGSS(STANSTED): CH14",2,45100
+020b9566-f772-4a04-a25b-41355adf07c7,CL60 (601),Bombardier,Challenger 601,CL60,CCJ,B_JP7,Jet Fuel,Pressure,,20457,21,19.6,48.3,20.9,6,9,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 36000, Noise cat EGSS(STANSTED): CH14",2,45100
+de03cace-d66b-4d56-974d-7d7633c5e133,CL60 (604),Bombardier,Challenger 604,CL60,CCJ,B_JP7,Jet Fuel,Pressure,11300,21863,22,19.6,48.3,20.9,6.3,19,6878,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 36000, Noise cat EGSS(STANSTED): CH14",2,48200
+41170da9-1b34-43b2-9f2e-1a5aafb387f5,CL60 (605),Bombardier,Challenger 605,CL60,,B_JP7,,,,21863,22,19.6,,20.85,,9,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 243.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 36000, Noise cat EGSS(STANSTED): CH14, Singapore Admin Fee(Singapore): 10% Admin Fee, Singapore Comm Fee(Singapore): 100.00",,48200
+0f1f5490-e77e-4be8-8ada-0af5000eb397,CL601,Bombardier,CL-601 Challenger,CL60,,B07,,,,20400,21,19.63,,20.88,,,,,,,,,,,,44974
+edad8b37-5982-4977-bf77-9f96e7be564d,CL6T,Bombardier,CL6T,CL60,,B14,,,,45100,46,28.7,,30.3,,,,,,,,,,,,99428
+54cb5ae2-bce8-4267-80f9-02a96c358ace,CL850,Bombardier,Challenger 850,CRJ2,CCJ,B_JP7,Jet Fuel,Pressure,,24040,25,21.21,48.4,26.77,6.2,14,,B,,,,115V/AC - 220V/DC,,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 243.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 6",,52999
+429ff199-f4cd-4277-9da3-e7e233d6105b,COL400,Lancair,LC-41 Columbia 400,COL4,,P01,Jet Fuel,Overwing,0,1600,2,,0,,,3,,A,,,,115V/AC - 220V/DC,,,,3527
+6219a126-224a-42f7-a203-df0a01f2a5ed,Columbia 350,Cessna,Columbia 350,COL3,MAR,P03,Jet Fuel,Overwing,,2500,3,,,,,3,,A,,,,115V/AC - 220V/DC,,,2,5512
+e1da1ad6-ef25-4202-866e-0295c24ee2fc,COMMANDER 500,Rockwell,Commander 500,AC50,AC50,B00,,,,3068,4,,,,,7,,A,,,,,,,,6764
+36892064-6c83-41f5-93a6-01651cd01e43,CRJ1,Canadair,Regional Jet CRJ-100,CRJ1,CR1,B08,Jet Fuel,Pressure,,21523,22,,,,,30,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,47450
+c8aa928d-2323-4266-a3f5-a010fdcb88b5,CRJ1000,Bombardier,CL-600 Regional Jet CRJ-1000,CRJX,,B14,,,,41640,42,21.21,,26.8,,100,,,,,,,,JP Handling Category(Japan): 6,,91800
+397430d2-a06c-4a5e-9a71-66c20ed921c2,CRJ2ER,Canadair,Regional Jet CRJ-200ER,CRJ2,CR2,B_JP7,Jet Fuel,Pressure,8111,23247,24,,0,,,50,,B,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, Noise cat EGSS(STANSTED): CH14",2,51251
+38db9588-f661-4bf5-a7be-1d2d9b8eebad,CRJ2LR,Bombardier,Regional Jet CRJ-200LR,CRJ2,CR2,B_JP7,Jet Fuel,Pressure,8111,24154,25,,,,,50,,B,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, Noise cat EGSS(STANSTED): CH3minus",2,53250
+ef6da12e-2f7d-453b-8ee6-0c24c68c9711,CRJ7,Canadair,Regional Jet CRJ-700,CRJ7,CR7,C_JP6,Jet Fuel,Pressure,11371,32995,33,,,,,70,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,72742
+0a4a1dc5-a980-4f3e-9ff0-97311e92b5f8,CRJ700,Bombardier,CL-600 Regional Jet CRJ-700,CRJ7,,C_JP6,,,,34019,35,23.2,,32.3,,70,,,,,,,,JP Handling Category(Japan): 6,,74999
+9c6de860-04ac-43af-af45-e7d403b49cea,CRJ705,Bombardier,CL-600 Regional Jet CRJ-705,CRJ9,,C_JP6,,,,37421,38,,,,,75,,,,,,,,JP Handling Category(Japan): 6,,82499
+152dc359-255a-45dc-9220-20cf3bf14f13,CRJ7ER,Canadair,Regional Jet CRJ-700ER,CRJ7,CR7,C_JP6,Jet Fuel,Pressure,11371,34019,35,,,,,70,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,74999
+2058814a-4247-4fc9-a1c8-2666afa67de5,CRJ800,Bombardier,CRJ800,CL60,,B12,,,,34000,34,24.9,,36.2,,,,,,,,,,,,74957
+e03f2058-f25f-40da-b939-e25427996cfd,CRJ9,Canadair,Regional Jet CRJ-900,CRJ9,CR9,B13,Jet Fuel,Pressure,11371,36514,37,,,,,84,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,80500
+343d0945-e901-4bef-9f5d-7940f95a6ce2,CRJ900,Bombardier,CL-600 Regional Jet CRJ-900,CRJ9,,B13,,,,37421,38,26.2,,39.1,,90,,,,,,,,JP Handling Category(Japan): 6,,82499
+2edbd660-71dc-44c9-87fe-baed4bbc6f91,CRJ9ER,Canadair,Regional Jet CRJ-900ER,CRJ9,CR9,B13,Jet Fuel,Pressure,11371,37421,38,,,,,76,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,82499
+2cd0a8ef-bdb5-4072-887f-44b7ce607c78,CVLT,Convair,CV-580,CVLT,,B09,Jet Fuel,Overwing,,25000,25,,,,,56,,C,,,,115V/AC - 220V/DC,,,2,55116
+14a1765f-87c0-461f-bf51-b18c05a453cf,D228,Dornier,228,D228,,B_JP8,Jet Fuel,Pressure,,6000,6,,,,,19,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13228
+0502490f-9917-46c5-9140-6bcd1ccf3146,D28D,Dornier,Do-28D Skyservant,D28D,,B00,Jet Fuel,Pressure,,3842,4,,,,,10,,A,,,,115V/AC - 220V/DC,,,2,8470
+c1b9b80d-10ab-491e-91c2-de084a35b715,D28T,Dornier,Do-28D-6 Turbo Skyservant,D28T,,B00,Jet Fuel,Pressure,,3842,4,,,,,12,,A,,,,115V/AC - 220V/DC,,,2,8470
+31bf7854-16f5-4827-8ffe-9ad14c5dbc70,D328,Dornier,328,D328,,T03,Jet Fuel,Pressure,,13990,14,,,,,32,,B,,,,115V/AC - 220V/DC,ADP GA : 5,,2,30843
+882d5ee3-4865-4ed9-9303-5e399fc21565,DA40,Diamond,DA-40 Diamond Star,DA40,,B00,Avgas,Overwing,,1150,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,2535
+8c57dcc1-86cd-4eba-acf4-80a61c272fe4,DA42,Diamond,DA-42 Twin Star,DA42,,B00,Jet Fuel,Overwing,100,1650,2,,0,,,4,,A,,,,115V/AC - 220V/DC,,,2,3638
+5b038a9a-b1e6-4af8-935e-5c56225c7b0e,DA62,Diamond,DA-62,DA62,,B_JP8,Jet Fuel,,326,2300,3,14.7,17.1,9.2,2.3,5,2.4,,,,,,,Noise cat EGSS(STANSTED): CH14,2,5071
+d19ce072-37bc-48b9-8845-bc134c8402ec,DASSAULT FALCON,Dassault,Falcon 200,FA20,,B_JP7,,,,15200,16,,,,,,,,,,,,,,,33510
+d1c653a3-556d-4951-a004-d55707381b49,DC10-10,McDonnell Douglas,DC10-10,DC10,,C_JP2,Jet Fuel,Pressure,,195045,196,,,,,380,,D,,,,115V/AC - 220V/DC,ADP GA : 4 MTOW per Boeing Tech Doc: http://www.boeing.com/commercial/dc-10/tech.html,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 131.95",,430001
+73c35251-fa82-47d1-a7ee-e7c991e3292e,DC10-15,McDonnell Douglas,DC10-15,DC10,,C_JP2,Jet Fuel,Pressure,,206385,207,,,,,380,,D,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 131.95",,455001
+d68f49d2-6d17-44b8-a227-880e7085f795,DC10-30,McDonnell Douglas,DC10-30,DC10,,C_JP2,Jet Fuel,Pressure,,259459,260,,,,,380,,D,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 136.80",,572009
+5ce779a4-5268-4b0d-b329-590c1a29415a,DC10-40,McDonnell Douglas,DC10-40,DC10,,C_JP2,Jet Fuel,Pressure,,251701,252,,,,,380,,D,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 136.80",,554906
+ce8b1518-7114-4219-87f9-105737c603e1,DC2,McDonnell Douglas,DC-2,DC2,,B04,Avgas,Overwing,,13000,13,,,,,14,,C,,,,115V/AC - 220V/DC,,,2,28660
+dad00031-d3ef-4066-985b-1a4885e89684,DC3,McDonnell Douglas,DC-3,DC3,,B04,Avgas,Overwing,,13000,13,,,,,21,,C,,,,115V/AC - 220V/DC,ADP GA : 4,,2,28660
+093ed3d3-5c20-4ed2-9caa-2407df37ade0,DC8,McDonnell Douglas,DC-8-70,DC87,,C04,Jet Fuel,Pressure,,200000,200,,,,,180,,D,,,,115V/AC - 220V/DC,,Singapore WSSS PF(Singapore): 98.00,4,440924
+ac765cf6-50be-4fc2-a416-5f9dee26420b,DC86,Douglas,DC-8-60,DC86,,C04,Jet Fuel,Overwing,,162000,162,,,,,220,,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 121.00",4,357149
+4643b10a-e855-4eeb-8b45-c9e8d4b721c1,DC87,Douglas,DC87,DC87,,C04,Jet Fuel,Overwing,,162000,162,,,,,259,,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 121.00",4,357149
+ba76e3df-67d0-41d9-bfde-141dbbcd96aa,DC9-10,McDonnell Douglas,DC-9-10,DC91,,B14,,,,41134,42,,,,,80,,,,,,,,JP Handling Category(Japan): 5,,90685
+6eadcffa-7c01-4ef2-837c-dd3f5aeab275,DC9-15,McDonnell Douglas,DC-9-15,DC91,,B14,,,,41134,42,,,,,90,,,,,,,,JP Handling Category(Japan): 5,,90685
+9e3e8b6f-6304-4a62-a147-0d6ee686c4a3,DC9-20,McDonnell Douglas,DC-9-20,DC92,,B14,Jet Fuel,Pressure,,46000,46,,,,,90,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 5,2,101413
+5af0f8c9-41e4-41d9-9d7b-906be1bcea45,DC9-30,McDonnell Douglas,DC-9-30,DC93,,C00,Jet Fuel,Overwing,,52000,52,,,,,115,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 5,2,114640
+0b8d95aa-9bca-4e38-be86-b821919e5bbc,DC9-40,McDonnell Douglas,DC-9-40,DC94,,C00,,,,51700,52,,,,,125,,,,,,,,JP Handling Category(Japan): 5,,113979
+82017922-8ba9-4fb5-8062-1e3124cb1a77,DC9-50,McDonnell Douglas,DC-9-50,DC95,,C00,,,,54900,55,,,,,139,,,,,,,,JP Handling Category(Japan): 5,,121034
+f633845c-7c90-4a41-9dea-13356c26d828,D-EROY,Mooney,M-20M TLS,M20T,,B00,,,,1500,2,,,,,4,,,,,,,,,1,3307
+3db82946-8ea8-4ec8-8ce3-0b99508bc6d3,DH-100,de Havilland,Vampire,VAMP,,B01,,,,5620,6,,,,,,,,,,,,,,,12390
+68386f88-f0a8-467d-8f53-84f6abcb1a15,DHC6-300,de Havilland,DHC-6 Twin Otter,DHC6,,B01,Jet Fuel,Pressure,0,5670,6,,0,,,20,,B,,,,115V/AC - 220V/DC,,MLW(Hawaii): 12300,2,12500
+c3838517-be6f-4175-aeb2-e293987f66d5,DHC7-100,de Havilland,DHC-7 Dash 7,DHC7,,T04,Jet Fuel,Pressure,,19958,20,,,,,50,,C,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, MLW(Hawaii): 42000",4,44000
+facba1ba-246f-4d00-9130-88a3260b039c,DHC8-100,Bombardier,DHC-8-100 Dash 8,DH8A,,T04,Jet Fuel,Pressure,,16466,17,25.9,54.3,22.3,7,37,,C,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, MLW(Hawaii): 32000",2,36301
+9a736b1a-c863-4923-99d7-7344de6c174a,DHC8-200,Bombardier,DHC-8-200 Dash 8,DH8B,,T04,Jet Fuel,Pressure,,16466,17,,,,,40,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,36301
+f9ce43b2-52f2-42e8-b26b-aa7d7907cf84,DHC8-300,Bombardier,DHC-8-300 Dash 8,DH8C,,T04,Jet Fuel,Pressure,,19505,20,,,,,50,,C,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 6, MLW(Hawaii): 39000",2,43001
+b963a693-80ca-44ee-adb4-8af124214e65,DHC8-400,Bombardier,DHC-8-400 Dash 8,DH8D,,T04_JP8,Jet Fuel,Pressure,,28917,29,,,,,70,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,63751
+ed38c01c-d811-4eca-b3ea-87e26a761f4d,D-Jet,Diamond,D-Jet,DJET,,B00,,,,2154,3,,,,,4,,,,,,,,,,4749
+fb08c8d8-1d5d-4c86-992a-a8fcb549222a,DO28,Dornier,Do-28A,DO28,,B01,Jet Fuel,Pressure,,6400,7,,,,,10,,A,,,,115V/AC - 220V/DC,,,2,14110
+434fc279-1afd-4231-a3ba-4251048fe34f,DOVE,de Havilland,DH-104 Dove,DOVE,,P04,,,,4060,5,,,,,8,,,,,,,,Custom Seat Count: 8,2,8951
+1557c80d-7ff6-48ae-b884-4fdf006ec348,DR400-120,Robin,Petit Prince (DR-400),DR40,,B00,Avgas,Overwing,,900,1,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,1984
+6c7a83eb-68f1-46f5-8849-a324334d3acd,DR400-180,Robin,DR-400 Regent,DR40,,B00,Avgas,Overwing,,1100,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,2425
+e299bc88-8d55-43b7-9fb8-0c81397938d5,E-2C HAWKEYE,Grumman,E-2C HAWKEYE,E2,,B10,,,,26082,27,,,,,,,,,,,,,,,57501
+d22995db-be33-4c6a-9f84-31efe5ec8ab8,E300,Extra,EA-300,E300,,B00,Avgas,Overwing,,950,1,,,,,2,,A,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 2,1,2094
+79462c13-d39d-4964-b1e8-67f4e16b796a,E314,Embraer,Super Tucano EMB314,E314,,T02,,,,5400,6,11.14,19.4,11.38,3.97,2,1330,,,,,,,,1,11905
+77d3f01e-5953-4051-8ec1-e4a1d7004fbe,E35L,Embraer,EMB-135BJ,E35L,,B_JP7,,,,22500,23,,,,,,,,,,,,,Noise cat EGSS(STANSTED): CH14,,49604
+b41ee7f7-0160-4b53-b03b-82c9ccb87fc3,E-3F Sentry,Boeing,E-3F Sentry,E3CF,,C04,Jet Fuel,Overwing,,156000,156,,,44,12.5,14,,D,,,,115V/AC - 220V/DC,Awacs,Singapore WSSS PF(Singapore): 102.85,4,343921
+05ae0ac0-38cd-4c8b-94a3-3640b0772731,E400,Extra,EA-400,E400,E400,B00,Jet Fuel,Overwing,468,2000,2,,,,,5,,A,,,,115V/AC - 220V/DC,Fueltype checken!!,,1,4409
+29219d41-d34d-4b74-8a31-07072ffe1e87,E4B (747-200),Boeing,E-4,B742,,C06,Jet Fuel,Pressure,0,377840,378,59.64,510.95,70.51,19.33,114,12600,E,,,,,National Airborne Operations Center,,4,832995
+9c1d0fef-f801-4ebd-a9f7-f423b0447b0d,E500,Extra,EA-500,E500,,T01,,,,2130,3,,,,,5,,,,,,,http://www.extraaircraft.com/business/index.php,,,4696
+bec4dcbd-df0f-4703-9b0e-c5e83317b03b,E50P,Embraer,EMB-500 Phenom 100,E50P,,B_JP8,,,,4750,5,,,,,4,,B,,,,,,Noise cat EGSS(STANSTED): CH14,2,10472
+8b3287bc-ef97-4c7e-b508-1df6887f1c71,E550,Embraer,EMB-550,E550,,B_JP7,,,,17085,18,,,,,8,,,,,,,,CAT LIDER(Brazil): D1,2,37666
+c3808df0-f017-422c-bd25-19634d5f34cb,E55P,Embraer,EMB-505 Phenom 300,E55P,,B_JP8,,,,8150,9,,,,,7,,B,,,,,,Noise cat EGSS(STANSTED): CH14,2,17968
+a04d785d-1935-4a6d-b356-761b84dcf8e7,EA500,Eclipse Aviation,Eclipse 500,EA50,EA50,B00,Jet Fuel,Overwing,1000,2719,3,1140,,1010,340,6,2371,A,,,,28V/DC,,,2,5994
+14a217d5-d77e-4f26-a1e3-8fae70472b0b,EC120,Eurocopter,EC-120 Colibri,EC20,,H01,Jet Fuel,Pressure,,1715,2,,,,,4,,A,,,,115V/AC - 220V/DC,,Noise cat EGSS(STANSTED): CH14,1,3781
+c4002967-6647-4a51-be07-8e76b7fd3bd1,EC130,Eurocopter,EC-130,EC30,,H01,Jet Fuel,Overwing,540,2400,3,,,,,6,,A,,,,28V/DC,,,1,5291
+765d1368-69a3-4ddd-81ce-5908934c161f,EC135,Eurocopter,EC-135,EC35,,H01,Jet Fuel,Pressure,,2720,3,,,,,9,,A,,,,115V/AC - 220V/DC,,,2,5997
+9595e713-527a-4426-9265-d8038f1b2b14,EC-145,Airbus Industries,EC-145,EC45,,B00,,,,3585,4,,,,,,,,,,,,,,,7904
+274de5db-6ad7-4d94-ba44-e25338542752,EC155,Eurocopter,EC-155,EC55,,H02,Jet Fuel,Pressure,,4800,5,,,,,13,,A,,,,115V/AC - 220V/DC,,,2,10582
+65457574-1408-45a8-9ad4-009e775b9292,EC225,Eurocopter,EC-225 Super Puma Mk2+,EC25,,H02,,,,11000,11,,,,,19,,,,,,,,,,24251
+abcc61a7-a63f-4528-8b28-503b58f59032,EC45,Eurocopter,EC-145,EC45,,H01,,,,4000,4,,,,,9,,,,,,,,,2,8818
+8deec386-1b4a-40aa-a171-0ad73cb9991c,EC-725 / AS532,Eurocopter,EC-725 Cougar Mk2+,EC25,,B03,Jet Fuel,Pressure,0,11000,11,,0,,,28,,B,,,,115V/AC - 220V/DC,,,2,24251
+50fb9be5-fecc-4284-a6d7-0114045f8a95,EMB110,Embraer,EMB-110 Bandeirante,E110,,T02,Jet Fuel,Pressure,,6000,6,,,,,18,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13228
+95b8f0fd-6074-4e27-8b93-4c2d99bc8011,EMB120,Embraer,EMB-120 Brasilia,E120,,T03,Jet Fuel,Pressure,,12000,12,,,,,30,,A,,,,115V/AC - 220V/DC,ADP GA : 5,MLW(Hawaii): 24800,2,26455
+6a5e49ed-aa31-4ea0-a186-96d026adc882,EMB121,Embraer,EMB-121 Xingu,E121,,B01,Jet Fuel,Pressure,0,6000,6,,0,,,8,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13228
+f68811c4-520a-4ecf-b4a9-775f725d8972,EMB-135 600,Embraer,Legacy 600,E135,,B_JP7,Jet Fuel,Pressure,,22500,23,,,,,14,,B,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,49604
+96da74db-6c88-4b0e-b0e6-c96aab26ac12,EMB-135 650,Embraer,Legacy 650,E135,,B_JP7,,,,22500,23,20.04,,26.33,,13,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 243.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,49604
+bcae77bd-4c22-4943-a54f-752994a36675,EMB-135ER,Embraer,EMB-135ER,E135,,B_JP7,,,,19000,19,,,,,37,,B,,,,,,"Aruba MTOW(Aruba): 20042, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 40785, Noise cat EGSS(STANSTED): CH14",2,41888
+17282ed9-9956-4418-8a88-b94c933b33b0,EMB-135LR,Embraer,EMB-135LR,E135,,B_JP7,Jet Fuel,Pressure,,20000,20,,,,,37,,B,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 40785, Noise cat EGSS(STANSTED): CH14",2,44092
+d9171842-1b4a-4045-b8f7-0007bb98fdfc,EMB-145ER,Embraer,ERJ-145ER,E145,,C_JP6,Jet Fuel,Pressure,,22000,22,,,,,50,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 6, Noise cat EGSS(STANSTED): CH3minus",2,48502
+a0446cbd-ed5a-4e7d-8eab-6aeaca81ea18,EMB-145LR,Embraer,ERJ-145LR,E145,,C_JP6,Jet Fuel,Pressure,,22000,22,,,,,50,,B,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 6,2,48502
+b65c04b4-aad1-4ba4-a77f-e17147c1ce6f,EMB-175,Embraer,EMB-175,E175,,B13,,,,38783,39,,,,,76,,,,,,,,,,85502
+56c28ee0-dfe7-4c28-84c6-b410e90d4337,EMB-190LR,Embraer,ERJ-190LR,E190,,C_JP6,Jet Fuel,,0,47790,48,,0,,,100,,C,,,,,,JP Handling Category(Japan): 6,2,105359
+ccdc6bca-0083-4c7f-a54d-bf04b93cceae,EMB-195,Embraer,EMB-195,E195,,C00,,,,50300,51,,,,,108,,,,,,,,,,110893
+319e50c1-30fd-4dcf-a052-174dc0e790a7,EMB-545 450,Embraer,Legacy 450,E545,,B06,,,,17690,18,,,,,,,,,,,,,,2,39000
+888d1dfa-cee2-4f8f-9719-ca44fd7398a3,EMB550,Embraer,EMB-550 Legacy 500,E500,,B06,,,,17400,18,20.2,,20.5,6.7,8,5788,,,,,,,,2,38360
+8dd68c4f-8589-403f-b0e9-0521ee0d4878,EMBRAER 505S,Embraer,EMB505S,ZZZZ,,B02,,,,8150,9,,,,,,,,,,,,Unkown aircraft type,,,17968
+8037d5e2-0ae7-4cdc-acd5-8f7f22c44402,EPIC,Canadair,Epic LT,EPIC,,B02,Jet Fuel,Overwing,1324,7300,8,13.1,18.91,4.5,3.81,6,2778,A,,,,28V/DC,,,1,16094
+4308cbdb-34b6-43ce-9b51-ce635911c9d3,ERJ-140,Embraer,ERJ-140,E140,,B07,,,,20100,21,,,,,44,,,,,,,,,,44313
+ceb0f7e7-337e-4796-922a-47b8fb6b56eb,ERJ-145XR,Embraer,ERJ-145XR,E45X,,B09,,,,24100,25,,,,,50,,,,,,,,,,53131
+1a9ca132-4d58-4fda-9aa7-f6480291c79e,ERJ-170ER,Embraer,ERJ-170ER,E170,,B13,Jet Fuel,Pressure,,38000,38,,,,,70,,C,,,,115V/AC - 220V/DC,ADP GA : 5,,2,83776
+71bf4a04-234c-4322-b9a6-47de07fd9632,ERJ-170LR,Embraer,ERJ-170LR,E170,,B12,Jet Fuel,Pressure,,32700,33,,,,,70,,C,,,,115V/AC - 220V/DC,ADP GA : 5,,2,72091
+28bee5dc-ba34-4072-b4e2-60a04f5d20b2,ERJ-190-400,Embraer,ERJ-190-400,E295,,C_JP6,,,,61500,62,,,,,,,,,,,,,,,135584
+a907572d-ddb1-4b07-a5b6-9d11ca0fbac8,ERJ-190ER,Embraer,ERJ-190 Lineage 1000,E190,,C_JP6,Jet Fuel,Pressure & Overwing,,54500,55,,,,,114,,C,,,,115V/AC - 220V/DC,MTOW overgenomen van EMB190LR - nog checken,JP Handling Category(Japan): 6,2,120152
+fc55ca36-802f-4e1b-8846-cc7cb6a563d5,EVOLUTION TURBINE,Lancair,Evolution Turbine,EVOT,,T04_JP8,,,,1066,2,,,,,,,,,,,,,,,2350
+ad79002e-eb58-48c6-aff1-22321f7c6f9f,F100,Fokker,F100,F100,,B14,Jet Fuel,Pressure,,45000,45,,,,,122,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 6,2,99208
+04e177be-7443-4d91-852b-3a3e16e98f79,F15,McDonnell Douglas,F-15 Eagle,F15,F15,B11,Jet Fuel,Pressure,7836,30845,31,13.05,,19.43,4.88,1,4631,A,,,,115V/AC - 220V/DC,,,2,68002
+f5579f94-daa9-43f7-b20d-54ef0a57af36,F16,General Dynamics,F-16 Fighting Falcon,F16,F16,B07,Jet Fuel,Pressure & Overwing,7687,19187,20,9.45,,15.03,5.09,1,3890,A,,,,115V/AC - 220V/DC,,,1,42300
+96b0f2c3-4420-41c0-8f4b-cfee50004161,F27,Fokker,F-27,F27,,T04,Jet Fuel,Pressure,,21000,21,,,,,44,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 6, MLW(Hawaii): 42000",2,46297
+36ee3d25-2961-47fa-b603-7d59fd35ce01,F28,Fokker,F-28,F28,,B11,Jet Fuel,Pressure,,29000,29,,,,,65,,C,,,,115V/AC - 220V/DC,ADP GA : 3,JP Handling Category(Japan): 6,2,63934
+a79981eb-6d09-49c5-9038-8b883be614a6,F406,Reims Cessna,F406 Caravan 2,F406,,B00,Jet Fuel,Pressure,,4500,5,,,,,12,,A,,,,115V/AC - 220V/DC,,,2,9921
+ef7280ec-b040-45d0-86c6-389fdada8fe6,F50,Fokker,F-50,F50,,T04,Jet Fuel,Pressure,,22000,22,29,,2525,834,50,2400,C,,,,115V/AC - 220V/DC,ADP GA : 5,,2,48502
+8b3bc16c-f590-4c05-8b93-e7b2c005d8f6,F60,Fokker,F-60,F60,,T04,Jet Fuel,Pressure,5136,22950,23,2900,,2687,834,45,2400,C,,,,115V/AC - 220V/DC,,,2,50596
+f523c769-89f2-4a91-b4ff-6a2d62762019,F70,Fokker,F-70,F70,,B13,Jet Fuel,Pressure,,39000,39,,,,,79,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 6,2,85980
+10609e0d-d3a2-4460-ba72-9b76bd2a65db,FA10,Dassault Mystere,Falcon 10,FA10,DF2,B02,Jet Fuel,Pressure,,9000,9,13.1,24.1,13.9,5,7,,A,,,,115V/AC - 220V/DC,ADP GA : 3,JP Handling Category(Japan): 8,2,19842
+5189c967-9144-4901-986d-f56c93d8bde3,FA100,Dassault Mystere,Falcon 100,FA10,DF2,B02,Jet Fuel,Pressure,,9000,9,13.1,24.1,13.9,5,8,,A,,,,115V/AC - 220V/DC,ADP GA : 3,JP Handling Category(Japan): 8,2,19842
+46fe1180-fa87-4a91-805d-80d38b192d80,FA-18A HORNET,McDonnell Douglas,FA-18A,F18H,,B09,,,,23541,24,12.3,38,17.1,4.7,,2017,,,,,,,,2,51899
+b2152048-e1c8-46a3-be0b-0f2618866c87,FA20,Dassault Mystere,Falcon 20,FA20,DF2,B_JP7,Jet Fuel,Pressure,,13000,13,16.3,41,17.2,5,10,,A,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 7, MLW(Hawaii): 27000",2,28660
+9519dd3d-f98d-4f2f-9452-1a39201b53b7,FA200,Dassault Mystere,Falcon 200,FA20,DF2,B_JP7,Jet Fuel,Pressure,,14515,15,16.3,41,17.2,5,10,,B,,,,115V/AC - 220V/DC,ADP GA : 3,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 100.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 142.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 27000",2,32000
+16ead6a8-f6cf-47c1-8b4c-127d00047a7a,FA2000,Dassault,Falcon 2000,F2TH,DF2,B_JP7,Jet Fuel,Pressure,6906,16556,17,19.35,49,20.27,7,8,6020,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 140.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 227.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 33000, Noise cat EGSS(STANSTED): CH14",2,36500
+c3e93c69-34df-4bb9-865b-481596d21f4a,FA2000DX,Dassault,Falcon 2000DX,F2TH,DF2,B_JP7,Jet Fuel,Pressure,,18598,19,,,,,8,,B,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,41002
+5bae606b-d48b-45c5-844b-057af79ec79a,FA2000EX,Dassault,Dassault Falcon-2000EX,F2TH,DF2,B_JP7,Jet Fuel,Pressure,9414,19323,20,19.33,,20.23,7.1,8,7042,B,,,,115V/AC - 220V/DC,,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,42600
+d7bd8a15-e3a2-4e08-95ba-47b1cb1f8d6d,FA2000LX,Dassault,Falcon 2000LX,F2TH,DF2,B_JP7,,,,19142,20,,,,,8,,B,,,,,,"JP Handling Category(Japan): 7, MLW(Hawaii): 33000, Noise cat EGSS(STANSTED): CH14",2,42201
+f9adfd95-5ef5-4721-b97e-e7579e1597ff,FA2000S,Dassault,Falcon 2000S,FA2000S,DF2,B07,,,,18597,19,,,,,,,,,,,,,Noise cat EGSS(STANSTED): CH14,,40999
+490f45c7-21e4-4edb-a97e-568d156ebebb,FA50,Dassault,Falcon 50,FA50,DF3,B_JP7,Jet Fuel,Pressure,,18500,19,18.9,46.8,18.5,7,9,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 35715, Noise cat EGSS(STANSTED): CH3minus",3,40786
+9566f441-e441-488c-9d04-145782d496e2,FA50EX,Dassault,Falcon 50EX,FA50,DF3,B_JP7,Jet Fuel,Pressure,,19000,19,,,,,9,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH3minus",3,41888
+12db8937-4385-4fac-b3e0-af244afe8173,FA6X,Dassault,Falcon 6X,FA6X,,B12,,,,35135,36,,,,,,,,,,,,,,,77459
+96262aba-1f51-4453-a0e6-b48c8f0989d3,FA7X,Dassault,Falcon 7X,FA7X,,B_JP7,Jet Fuel,Pressure,,31750,32,26.21,,23.38,,19,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 62400, Noise cat EGSS(STANSTED): CH14",3,69997
+3ac636a0-d6ea-4f82-a363-b53f078c9ea6,FA8X,Dassault,Falcon 8X,FA8X,,B_JP7,,,,33113,34,26.29,,24.46,,,,,,,,,,Noise cat EGSS(STANSTED): CH14,,73002
+3da11b1a-95cd-4844-a3f5-bf41e664e440,FA900,Dassault,Falcon 900,F900,DF3,B_JP7,Jet Fuel,Pressure,,20640,21,19.33,46.8,20.21,7,18,7400,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D1, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, JP Seat Count(Japan): <19, MLW(Hawaii): 42000, Noise cat EGSS(STANSTED): CH14",3,45503
+afa00662-bead-48c7-9f1e-c8d579131c3f,FA900DX,Dassault,Falcon 900DX,F900,DF3,B_JP7,Jet Fuel,Pressure,,23000,23,,,,,19,,B,,,,115V/AC - 220V/DC,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",,50706
+c5ba4e30-946b-4843-90f6-1424d252d023,FA900EX,Dassault,Falcon 900EX,F900,DF3,B_JP7,Jet Fuel,Pressure,11931,23000,23,21.36,49,20.23,7.6,12,8427,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 25.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 243.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 42000, Noise cat EGSS(STANSTED): CH14",3,50706
+d913b848-3f99-4481-8e25-3215e3652426,FA900LX,Dassault,Falcon 900LX,F900,DF3,B_JP7,,,,22226,23,,,,,19,,,,,,,MTOW: http://www.dassaultfalcon.com/en/Aircraft/Models/900LX/Pages/overview.aspx,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 243.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",,49000
+d87a7dc1-1b1b-4021-acb2-2a44dc2e33dc,G100,IAI,Gulfstream G100,ASTR,,B_JP7,Jet Fuel,Pressure,,11205,12,16.64,,16.94,,8,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 100.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 142.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 20700, Noise cat EGSS(STANSTED): CH14",2,24703
+ea64cef7-0c2b-4fad-841b-1e18d20a824e,G115A,Grob,G-115A,G115,,B00,Avgas,Overwing,,850,1,,,,,2,,A,,,,115V/AC - 220V/DC,,,1,1874
+7e9eecbe-b869-4c50-b125-3f49a029d3c5,G115D,Grob,G-115D,G115,,B00,Avgas,Overwing,,920,1,,,,,2,,A,,,,115V/AC - 220V/DC,,,1,2028
+ba6d5fc9-7394-49a7-b7c5-121fd61a9c90,G150,Gulfstream,Gulfstream G150,G150,,B_JP7,Jet Fuel,Overwing,,12000,12,16.94,,17.3,5.82,4,5467,B,,,,28V/DC,ADP GA : 4,"MLW(Hawaii): 21700, Noise cat EGSS(STANSTED): CH14",2,26455
+ef826bf4-3cae-4174-b50d-e89983293858,G159,Grumman,G-159 Gulfstream 1,G159,GRS,B05,Jet Fuel,Pressure,,16000,16,,,,,19,,B,,,,115V/AC - 220V/DC,ADP GA : 4,,2,35274
+4ed1ce3f-cb4b-406f-a637-e3897bda2192,G200,IAI,Gulfstream G200,GALX,,B_JP7,Jet Fuel,Pressure,,15841,16,17.7,,18.97,,18,,B,,,,115V/AC - 220V/DC,ADP GA : 4,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 30000, Noise cat EGSS(STANSTED): CH14",2,34923
+ebc2ede6-7283-4b7a-861d-97eb3ee1c634,G21,Grumman,G-21A GOOSE,G21,,B01,,,,6000,6,,,,,6,,A,,,,,,,2,13228
+847226a2-04c5-4cab-9a3c-63b1cdab7871,G250,Gulfstream,Gulfstream G250,G250,,B06,,,,18000,18,,,,,10,,B,,,,,,,,39683
+0f11d690-314c-4a52-a63a-3c6f9abe438d,G280,Gulfstream,Gulfstream G280,G280,,B_JP7,,,,18001,19,19.2,,20.3,,10,,,,,,,G280 specs: http://www.gulfstream.com/products/g280/,"CAT LIDER(Brazil): D1, MLW(Hawaii): 32000, Noise cat EGSS(STANSTED): CH14",,39685
+898b95c5-0e94-4eb9-b36c-1fab2e3bc639,G300,Gulfstream,Gulfstream G300,GLF4,,B_JP7,Jet Fuel,,,31682,32,,,,,19,,B,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH4",,69847
+3331b194-14e9-44df-b7b9-2c7ad40dee04,G350,Gulfstream,Gulfstream G350,GLF4,,B_JP7,Jet Fuel,Overwing,,33000,33,23.72,,27.23,1.88,14,7038,B,,,,115V/AC - 220V/DC,ADP GA : 4,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",,72753
+a6ef6266-86a9-4242-885d-0497e34b3a63,G400,Gulfstream,Gulfstream G400,GLF4,,B_JP7,Jet Fuel,,,33273,34,23.72,,26.92,,14,,B,,,,,,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 66000, Noise cat EGSS(STANSTED): CH14",2,73354
+d55816aa-5b58-42d3-8724-789da0527e7a,G450,Gulfstream,Gulfstream G450,GLF4,,B_JP7,Jet Fuel,Pressure,,34000,34,23.72,,27.23,7.7,8,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 66000, Noise cat EGSS(STANSTED): CH14",2,74957
+e4e2d59d-331b-4fd8-b583-3d001bbf0558,G550,Gulfstream,Gulfstream G550,GLF5,,B_JP7,Jet Fuel,Pressure,,42000,42,28.5,,29.39,,16,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 30.00, Greece Coordination Fee(Greece): Coordination Fee 80.00, Greece Supervision Fees Nights (22:00-06:00)LCL(Greece): UAG Supervision Fees Nights (22:00-06:00)LCL(Pass  In & Out)  412.50, Greece Supervision Fees Weekend(Greece): UAG Supervision Fees Weekend ( Pass. In & Out) 315.00, Greece Supervision Fees Weekend (1 Empty Leg)(Greece): UAG Supervision Fees Weekend (1 Empty Leg Arrival or Dept.) 435.00, Greece UAG Supervision Fees Night(Greece): Supervision Fees Night LCL (22:00-06:00) Empty Leg 532.50, JP Handling Category(Japan): 7, MLW(Hawaii): 75300, Noise cat EGSS(STANSTED): CH14",2,92594
+cbaf0ee7-d5d9-44c2-9136-9d07da22a86f,G650,Gulfstream,Gulfstream G650,GLF6,,B_JP7,,,,45200,46,30.36,119.2,30.41,7.7,11,,,,,,,,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14, Special Pricing EGSS: Tier 1",2,99649
+1b926b13-3532-41a1-b821-d874455a5744,G650ER,Gulfstream,Gulfstream G650ER,GLF6,,B_JP7,,,,46992,47,30.36,,30.41,,,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Noise cat EGSS(STANSTED): CH14",,103600
+67c7192b-4976-4010-8918-4405d5815fde,G-7 GULFSTREAM,Gulfstream,G-7 Gulfstream G500,GA5C,,B_JP7,,,,34859,35,,,,,,,,,,,,,,,76851
+2d75e1b6-b12d-453e-a6db-d848c66f1e81,G700,Gulfstream,G700,CL60,,B12,,,,34000,34,31.39,,33.48,,,,,,,,,,,,74957
+427d7bb8-d0e6-4ade-a01b-5de28917e50b,GIV,Gulfstream,Gulfstream GIV,GLF4,GRJ,B_JP7,Jet Fuel,Pressure,0,34000,34,23.72,88.3,26.92,7,19,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 58500, Noise cat EGSS(STANSTED): CH14",2,74957
+071b4e90-fabe-44d4-a7fd-90645dc79caf,GIV-SP,Gulfstream,Gulfstream GIV-SP,GLF4,GRJ,B_JP7,Jet Fuel,Pressure,0,34000,34,,,,,19,,B,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 270.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, MLW(Hawaii): 66000, Noise cat EGSS(STANSTED): CH14",2,74957
+c6ad46b2-efb0-4eaf-9267-3de7f5f5d070,GL5T,Bombardier,BD-700 Global 5000,GL5T,,B_JP7,Jet Fuel,Pressure,,42000,42,28.7,94.4,29.5,7.7,19,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): D2, Custom Seat Count: 20, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 78600, Noise cat EGSS(STANSTED): CH14",2,92594
+42a12947-12e8-46a4-bc98-ad2ac40ae414,GL6T,Bombardier,BD-Global 6000,GL6T,,B_JP7,,,,45132,46,28.7,,,,19,11112,,,,,,,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 78600, Noise cat EGSS(STANSTED): CH14",2,99499
+bde5c722-ba7f-45bb-a8bc-9529baa87ec8,GL7500,Bombardier,Global 7500,CL60,,C00,,,,52000,52,31.7,,33.8,,,,,,,,,,,,114640
+cef26519-75cc-4bac-9e87-bf567aef5839,GL7T,Bombardier,BD-700 Global 7500,GL7T,,B_JP7,,,,52095,53,,,,,,,,,,,,,,,114850
+ab831613-dc51-4394-9908-66459d2dfc24,GLEX,Bombardier,BD-700 Global Express,GLEX,,B_JP7,,,,45000,45,28.65,94.9,30.3,7.8,18,,C,,,,,,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 78600, Noise cat EGSS(STANSTED): CH14",2,99208
+b891938b-6b86-4d51-9257-09cf245bc44f,GLF2,Gulfstream,G-1159 Gulfstream 2,GLF2,GRJ,B_JP7,Jet Fuel,Pressure,,30000,30,,,,,19,,B,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 7, MLW(Hawaii): 58500, Noise cat EGSS(STANSTED): CH2",2,66139
+8389fbab-e37a-4395-b46c-2b7b94a4848c,GLF3,Gulfstream,G-1159A Gulfstream 3,GLF3,GRJ,B_JP7,Jet Fuel,Pressure,,31000,31,,,,,19,,B,,,,115V/AC - 220V/DC,ADP GA : 3,"JP Handling Category(Japan): 7, MLW(Hawaii): 58500, Noise cat EGSS(STANSTED): CH4",2,68343
+cb6d8b5f-ad06-4ab6-8fca-63477c544663,GLF5/SP,Gulfstream,Gulfstream GV,GLF5,GRJ,B_JP7,Jet Fuel,Pressure,0,42000,42,28.5,105.6,29.4,7.9,19,12045,C,,,,115V/AC - 220V/DC,US Air Force model ADP GA : 5,"CAT LIDER(Brazil): D2, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 150.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 270.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,92594
+24667514-03ce-4c96-bbe3-2026b40f49b8,GLOBAL EXPRESS 6000 VISION,Bombardier,Global 6000,GLEX,,B_JP7,,,,44452,45,28.65,,30.3,,,,,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, Noise cat EGSS(STANSTED): CH4",,98000
+7d9f82d3-23ff-4df6-b454-c6c5a19559f4,GULFSTREAM G500,Gulfstream,Gulfstream G500 (G-7),GA5C,,B_JP7,,,,34859,35,,,,,19,,,,,,,,Noise cat EGSS(STANSTED): CH4,2,76851
+7b0e9a4d-3bcd-4702-94e8-b653b6462d79,GULFSTREAM G600,Gulfstream,Gulfstream G600 G-7,GA6C,,B_JP7,,,,41549,42,28.96,,29.29,,,,,,,,,,Noise cat EGSS(STANSTED): CH14,,91600
+0fe589a6-ea81-46c6-b3a5-c18317a99ae2,GULSTREAM G180,Gulfstream,G180,EINN,SNN,B03,Jet Fuel,,,12000,12,,,,,,,,,,,,,,,26455
+bce21b35-6556-4115-8f2d-bab5f086310c,H1000,Raytheon,Hawker 1000,H25C,H25,B05,Jet Fuel,Pressure,,15000,15,15.7,34.8,16.4,5,8,,B,,,,115V/AC - 220V/DC,ADP GA : 3,,2,33069
+cd25f434-efc9-4051-a104-062855966d24,H750,Hawker Beechcraft,Hawker 750,H25B,H25,B_JP7,Jet Fuel,Pressure,0,13000,13,15.65,0,15.6,5.51,8,4074,B,,,,115V/AC - 220V/DC,ADP GA : 3,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7",2,28660
+3a08518f-db2c-43be-9acc-3754388aeadb,H800,British Aerospace,Hawker 800,H25B,,B_JP7,Jet Fuel,,,12727,13,,,,,8,,B,,,,,,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7",2,28058
+6fe63e7e-db08-4342-a588-8440d19bc73b,H800B,Raytheon,Hawker 800B,H25B,H25,B_JP7,Jet Fuel,Pressure,,13000,13,,,,,8,,B,,,,115V/AC - 220V/DC,ADP GA : 3,"Aruba MTOW(Aruba): 12727, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 23350",2,28660
+7656dcb5-dabc-4029-9d78-ff929f3f1e86,H800XP,Raytheon,Hawker 800XP,H25B,H25,B_JP7,Jet Fuel,Pressure,0,13000,13,15.7,34.8,15.6,5,8,4780,B,,,,115V/AC - 220V/DC,ADP GA : 3,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7",2,28660
+0681d475-e220-4e94-a1d7-de798130e242,H850/XP,Hawker Siddeley,Hawker 850,H25,,B04,Jet Fuel,,0,12701,13,16.5,0,15.6,5.5,8,4893,B,,,,,,Noise cat EGSS(STANSTED): CH3minus,,28001
+89d64358-23c6-4d1b-b3f7-5517e20a677b,H900/XP,Hawker Beechcraft,Hawker 900,H25B,,B_JP7,Jet Fuel,Pressure,0,12727,13,16.56,0,15.6,5.51,8,5463,B,,,,28V/DC,,"Aruba MTOW(Aruba): 12727, Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7",2,28058
+d4cd5872-6cf6-4e14-83d2-4a5d7c22647c,HA-420,Honda,HA-420 HondaJet,HDJT,,B_JP8,,,,4172,5,,,,,4,,,,,,,,,,9198
+c9933cdb-7866-4fc5-9bfe-e7c51f908064,HAWK,Hawker Siddeley,Hawk ,HAWK,,B01,Jet Fuel,Overwing,,7000,7,,,,,58,,A,,,,115V/AC - 220V/DC,,,1,15432
+3a2caa5e-6ed2-4dfe-b4e6-037b093e97bb,Hawker 4000,Hawker Beechcraft,Hawker 4000,HA4T,,B_JP7,,,,17917,18,,,,,14,,B,,,,,,Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes,2,39500
+2c451ef3-6c49-4249-8b78-47d9be192398,HF20,HFB,Hansa ,HF20,,B02,Jet Fuel,Overwing,,10000,10,,,,,7,,A,,,,115V/AC - 220V/DC,,,2,22046
+a978ba5e-dbf7-41a0-9a9f-fd647133eab3,HH-65,Aerospatiale,HH-65 Dolphin,AS65,,H02,,,,4300,5,,,,,,,,,,,,,,,9480
+b9e7a916-56e1-4cc6-ac46-74487471b215,HK-36,Diamond,H-36 Dimona,DIMO,,B00,Avgas,,,550,1,,,,,2,,A,,,,,,,,1213
+ea5b86b0-257c-43ed-91f1-7441409d4efa,HS125-1,British Aerospace,HS-125-1,H25A,,B03,,,,10431,11,,,,,8,,,,,,,,,,22996
+e554393c-fd43-4f6c-b54c-b2951ca98eb3,HS125-2,British Aerospace,HS-125-2,H25A,,B03,,,,10431,11,,,,,12,,,,,,,,,,22996
+60f2c6af-1b28-4747-80ed-80d6b9611345,HS125-3,British Aerospace,HS-125-3,H25A,,B03,,,,10431,11,,,,,14,,,,,,,,,,22996
+53797fc6-0424-4cef-81af-a3d27cc8dfba,HS125-400,Hawker Siddeley,HS-125-400,H25A,H25,B03,Jet Fuel,Pressure,,10569,11,14.3,32.8,14.4,5,12,,A,,,,115V/AC - 220V/DC,ADP GA : 3,,2,23301
+a1524585-fbff-43a3-af1a-ee3cdece0c2d,HS125-600,Hawker Siddeley,HS-125-600,H25A,H25,B03,Jet Fuel,Pressure,,11340,12,14.3,32.8,15.4,5,12,,A,,,,115V/AC - 220V/DC,ADP GA : 3,Aruba MTOW(Aruba): 11591,2,25000
+5abd7f01-5b49-42d5-a925-f2da4a356d34,HS125-700,Hawker Siddeley,HS-125-700,H25B,H25,B_JP7,Jet Fuel,Overwing,0,12727,13,14.33,32.8,15.46,5.36,8,4482,A,,,,115V/AC - 220V/DC,ADP GA : 3,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 7, MLW(Hawaii): 24800",2,28058
+27df1cbc-21a3-4515-8724-f9f0401bc188,HS-748,British Aerospace,HS-748,A748,,B07,Avgas,Overwing,,21000,21,,,,,58,,B,,,,115V/AC - 220V/DC,,,2,46297
+1c0af3cc-6533-48d5-8dbf-cacf2a3919c5,Hunter,Hawker Siddeley,Hunter,HUNT,,B03,,,,11158,12,,,,,,,,,,,,,,,24599
+f4d02a24-cf28-478b-af31-8abdc8f8226a,HWK4,Groen Brothers Aviation,Hawk 4,HW4P,,B00,Jet Fuel,Overwing,284,1588,2,1280,,732,411,3,585,A,,,,28V/DC,,,1,3501
+32837a18-1171-47dd-8697-08f38463d405,IAI-1121,IAI,Jet Commander (1121),WW21,,B02,,,,7620,8,,,,,7,,,,,,,,,,16799
+52be3699-6e1b-40a2-a688-942d7dd3df70,IL62,Ilyushin,IL-62,IL62,,C04,Jet Fuel,Pressure,0,167000,167,43.2,279.6,53.12,12.35,186,6700,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 112.55",4,368172
+d6c1526b-309e-450a-a70e-14f164da020e,IL62M,Ilyushin,IL-62M,IL62,,C04,Jet Fuel,Pressure,,167000,167,43.2,279.6,53.12,12.35,174,7800,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 112.55",4,368172
+56083b20-1db7-4611-8db4-c105f3e2ece3,IL62MK,Ilyushin,IL-62MK,IL62,,C04,Jet Fuel,Pressure,0,167000,167,43.2,279.6,53.12,12.35,195,7800,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 112.55",4,368172
+2226a816-bed8-48c6-ad34-396493ed98db,IL76,Ilyushin,IL-76,IL76,,C_JP4,Jet Fuel,Pressure,,190000,190,50.5,,46.5,14.7,5,,D,,,,115V/AC - 220V/DC,ADP GA : 2,"JP Handling Category(Japan): 4, Singapore WSSS PF(Singapore): 117.40",4,418878
+5bc6a02c-9081-4abc-8a30-73e5ab3c3710,IL96,Ilyushin,IL-96,IL96,,C05,Jet Fuel,Pressure,,240000,240,,,,,300,,E,,,,115V/AC - 220V/DC,ADP GA : 4,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 154.60",4,529109
+8790437e-d30e-431b-bd53-0cdeac6d7e1b,J328,Fairchild Aerospace,328JET,J328,,T03,Jet Fuel,Pressure,,15660,16,,,,,30,,B,,,,115V/AC - 220V/DC,,,2,34524
+e9fe0ecb-1a37-4c20-9ff8-9da306e7f2b1,Jetstream ATP 61,British Aerospace,ATP,ATP,,B08,Jet Fuel,Pressure,,22930,23,30.63,,,7.14,64,,,,,,115V/AC - 220V/DC,,,2,50552
+b0de67d1-8f35-4e42-be1b-6749c2c1a780,JPRO,British Aircraft Company (BAC),Jet Provost T5,JPRO,PT5,B00,,,,4173,5,10.77,19.8,10.36,3.1,2,1450,,,,,,,,1,9200
+a52b510d-9097-464c-b130-cd855bb73f56,JS31,British Aerospace,Jetstream 31,JS31,,T02,Jet Fuel,Pressure,,6950,7,,,,,19,,A,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 8,2,15322
+b88983c3-e945-48e4-9e22-26eee4ba6823,JS32,British Aerospace,Jetstream 32,JS32,,T02,Jet Fuel,Pressure,,6969,7,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,15364
+2560eafb-b200-4149-9523-763102c8e75d,JS41,British Aerospace,Jetstream 41,JS41,,B03,Jet Fuel,Pressure,,10895,11,,,,,29,,B,,,,115V/AC - 220V/DC,,,2,24019
+8bd7ee20-1104-4059-8dda-37811dbf4b5b,JU52,Junkers,Ju-52/3m,JU52,,B03,Avgas,Overwing,,11000,11,,,,,16,,C,,,,115V/AC - 220V/DC,,,3,24251
+2b3efde4-e284-4365-9f86-0efa84281e6f,KAWASAKI P-1,Kawasaki Aerospace Company,P-1,P1,,C01,,,,80000,80,35.4,,38,12.1,13,8000,,,,,,,,4,176370
+21f8c83a-f90b-4ac2-a7a1-8cc595922963,KC-130J,Lockheed,KC-130J Hercules,C30J,,C01,,,,79378,80,,,,,92,,,,,,,,,,174999
+26a0bb50-c99f-405c-84d1-34d1f12e3ede,KC-135,Boeing,KC-135,K35R,,C04,,,,146000,146,,,,,,,,,,,,,,,321875
+c152a770-07c1-46bc-9dba-39bee20f6b4e,KC-2,Kawasaki Aerospace Company,KC-2,KC-2,,C04,,,,141400,142,,,,,,,,,,,,,,2,311734
+189ed6ae-67a7-4faf-befa-90f2c669fe0c,KC-390,Embraer,KC-390,E390,,C01,Jet Fuel,,,80999,81,,,,,,,,,,,,,,2,178572
+111dd20c-d2da-47d6-959a-35131ea005ff,KODI,Quest Aircraft Company,Quest Kodiak 100,KODI,,B00,,,,3290,4,13.72,22.3,10.18,4.69,9,,,,,,,,,1,7253
+3ae6cc6d-aafb-418e-8063-65aecd621bf3,L159,Lockheed,L-1011 TriStar,L101,L1011,C05,Jet Fuel,Pressure,,231330,232,50.09,329,50.05,16.87,400,,E,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 125.80",3,509995
+42738ef8-4df3-4457-a797-89b9cc88adf4,L-159,Aero Vodochody,L-159,L159,,B02,,,,8000,8,,,,,1,,,,,,,,,,17637
+7608dbd9-266a-4bab-8aa1-2c86104534b0,L188,Lockheed,L-188 Electra,L188,,C00,Jet Fuel,Overwing,,53000,53,,,,,104,,C,,,,115V/AC - 220V/DC,,MLW(Hawaii): 98500,4,116845
+0c7ca691-0d04-4131-a594-cdddbbea3a38,L29A,Lockheed,L-1329 Jetstar 8,L29A,,B06,Jet Fuel,Pressure,,17678,18,,,,,10,,B,,,,115V/AC - 220V/DC,,,2,38973
+3691893b-3dc8-404c-a462-281e1670c86d,L29B,Lockheed,L-1329 Jetstar 731,L29B,,B07,Jet Fuel,Pressure,,19844,20,,,,,10,,B,,,,115V/AC - 220V/DC,,,4,43749
+aa63250c-c5bb-44f1-a4e9-31e5a9f89a3d,L39,Aero Vodochody,Albatros ,L39,,B00,Jet Fuel,Overwing,,5000,5,,,,,2,,A,,,,115V/AC - 220V/DC,,,1,11023
+1d44a59b-84fd-4f8f-bba1-515393736472,L410,LET,L-410 Turbolet,L410,,B01,Jet Fuel,Pressure,,6600,7,,,,,19,,A,,,,115V/AC - 220V/DC,,,,14551
+1fc323ed-b4c2-43d0-8a3a-cf00a8700053,L420,LET,L-420 Turbolet,L410,,B01,Jet Fuel,Pressure,,6600,7,,,,,19,,A,,,,115V/AC - 220V/DC,,,,14551
+f64443e2-3aaa-4a27-bfc5-b419ecfb4436,L-610,LET,L-610,L610,,B05,,,,14498,15,,,,,40,,,,,,,,,,31963
+c8405b12-9c12-4f98-9552-d7470b91dd8d,LA-250,Lake Aircraft,LA-250 Renegade,LA25,,P02,,,,1383,2,11.6,15.8,8.6,3.1,6,1668,,,,,,,,1,3049
+be5af04e-4fe7-4c24-b5d6-ee2509d81884,LA3TO BE DELETED,ZZZZ | N/A,Light Aircraft 3T,LA3,,B00,Jet Fuel,Overwing,,3000,3,,,,,,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,,6614
+eb6f77c5-08f9-413c-9b5c-d000309fd8b6,LA5TO BE DELETED,ZZZZ | N/A,Light Aircraft 5T-6T,LA5,,B01,Jet Fuel,Overwing,,6000,6,,,,,,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,,13228
+f5594a1b-3a32-47ca-a3f5-a5c480922734,LJ23,Bombardier,Learjet 23,LJ23,,B01,,,,5669,6,,,,,6,,,,,,,,,,12498
+13ab6b36-9398-4f6d-a777-77628eee2cbf,LJ24,Gates,Learjet 24,LJ24,LRJ,B01,Jet Fuel,Pressure,,6123,7,10.8,21.5,13.2,4,6,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,13499
+984aa3ef-529c-42f2-9268-a7319ca4e8b6,LJ25,Gates,Learjet 25,LJ25,LRJ,B01,Jet Fuel,Pressure,,6804,7,10.8,21.5,14.5,4,8,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,15000
+a6e4f9c6-927d-426b-8d41-c82fd365510f,LJ28,Bombardier,Learjet 28,LJ28,,B01,,,,6803,7,,,,,8,,,,,,,,,,14998
+0e6b8e61-8327-44ec-bf29-0dff4e1ccd33,LJ29,Bombardier,Learjet 29,LJ29,,B01,,,,6803,7,,,,,6,,,,,,,,,,14998
+3be78f53-d3fd-4fa0-a004-18208632c1cc,LJ31,Gates,Learjet 31A,LJ31,LRJ,B02,Jet Fuel,Pressure,0,7030,8,13.4,24.6,14.8,3.73,8,3021,A,,,,115V/AC - 220V/DC,,,2,15498
+32ef3e3a-c000-4e8d-bb52-62d997840a26,LJ31ER,Gates,Learjet 31ER,LJ31,LRJ,B02,Jet Fuel,Pressure,,8000,8,13.4,24.6,14.8,4,8,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,17637
+5f6bc6bd-62b6-47e6-aa22-feaab054ca5f,LJ35,Gates,Learjet 35,LJ35,LRJ,B_JP8,Jet Fuel,Pressure,3524,8300,9,12.4,23.5,14.8,3.7,8,5015,A,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): C, JP Handling Category(Japan): 8, MLW(Hawaii): 15300, Noise cat EGSS(STANSTED): CH4",2,18298
+e400bc92-25da-4e41-83a1-023bcffbb6eb,LJ35A,Bombardier,Learjet 35A,LJ35,LRJ,B_JP8,Jet Fuel,Pressure,,8300,9,,,,,7,,A,,,,115V/AC - 220V/DC,US Air Force Model,"JP Handling Category(Japan): 8, Noise cat EGSS(STANSTED): CH4",,18298
+05a32701-8898-4630-9482-017c65b22211,LJ36,Gates,Learjet 36,LJ35,,B_JP8,Jet Fuel,Pressure,,8318,9,12,23.5,14,4,5,,A,,,,115V/AC - 220V/DC,"Like LJ35, but 2 seats less for longer range /ADP GA : 5","JP Handling Category(Japan): 8, MLW(Hawaii): 15300",2,18338
+7a895def-5824-4347-9215-9573dec8e81c,LJ40,Gates,Learjet 40,LJ40,LRJ,B_JP8,Jet Fuel,Pressure,,9545,10,14.6,29,16.9,4.3,7,,A,,,,115V/AC - 220V/DC,ADP GA : 5,SIRIO SPA Discount(Italy): LJ40,2,21043
+e6ca8c14-64a4-4975-8fa9-00ac3a2a9b59,LJ40XR,Bombardier,Learjet 40XR,LJ40,LRJ,B02,Jet Fuel,Pressure,0,10000,10,14.6,29,16.9,4.3,7,,A,,,,115V/AC - 220V/DC,ADP GA : 5,SIRIO SPA Discount(Italy): LJ40,2,22046
+4fb72c09-8e59-4d47-af8e-a1d83e31b84e,LJ45,Bombardier,Learjet 45,LJ45,LRJ,B_JP8,Jet Fuel,Pressure,,9163,10,14.6,29,17.6,4.3,10,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, MLW(Hawaii): 17500, Noise cat EGSS(STANSTED): CH4",2,20201
+a785a4b6-3962-4056-8e27-e4861b577a88,LJ45XR,Bombardier,Learjet 45XR,LJ45,LRJ,B_JP8,Jet Fuel,Pressure,,10000,10,14.6,29,17.6,4.3,9,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"Global Jet Luxembourg UV Avamex Special Agreement(UV Avemex): Yes, JP Handling Category(Japan): 8, Noise cat EGSS(STANSTED): CH4",2,22046
+ff30e6c5-504c-4509-bf58-8111ac72168b,LJ55,Bombardier,Learjet 55,LJ55,LRJ,B02,Jet Fuel,Pressure,,9752,10,13.3,24.6,16.8,4,8,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 8, MLW(Hawaii): 18000, Noise cat EGSS(STANSTED): CH3minus",2,21499
+eba31b22-e8cf-4c4d-891f-42b0248b22e8,LJ60,Bombardier,Learjet 60,LJ60,LRJ,B_JP7,Jet Fuel,Pressure,,10500,11,13.34,24.6,17.88,4,6,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"CAT LIDER(Brazil): C, JP Handling Category(Japan): 7, MLW(Hawaii): 19500, Noise cat EGSS(STANSTED): CH14",2,23149
+2a7a8d34-5331-467c-9bbc-b8c415f701f0,LJ60XR,Bombardier,Learjet 60XR,LJ60,LRJ,B_JP7,Jet Fuel,Pressure,,11000,11,13.4,24.6,17.9,4.4,9,,A,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 7, Noise cat EGSS(STANSTED): CH14",2,24251
+93c58102-628c-43f6-946f-c69d9542be35,LJ75,Bombardier,Learjet 75,LJ75,,B02,,,,9752,10,,,,,,,,,,,,,,,21499
+97648e5b-8a03-4279-8e51-9f7c5cbe064b,LONG-EZ,Rutan,61 Long-EZ,LGEZ,,P01,,,,601,1,,,,,2,,,,,,,,,,1325
+bdb4545b-8265-4452-a970-9e5be8fa0935,LYNX,Westland,SH-14 Lynx,LYNX,,H02,Jet Fuel,Pressure,,5330,6,,,,,9,,A,,,,115V/AC - 220V/DC,,,2,11751
+1363e694-00e0-4f9b-be44-b96f49233fe3,M20P,Mooney,M-20B Mark 21,M20P,,B00,Jet Fuel,Overwing,,2000,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,4409
+ac94077d-74be-4666-9eed-72366fc0b7fd,MAULE MX7-180,Cessna,MAULE MX7-180,EINN,,B00,,,,2000,2,,,,,,,,,,,,,,,4409
+04b2bba5-2fb3-401d-ac40-ab013cfcc2cd,MD11,McDonnell Douglas,MD-11,MD11,M11,C05,Jet Fuel,Pressure,,282000,282,,,,,285,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, MLW(Hawaii): 430000, Singapore WSSS PF(Singapore): 154.60",3,621703
+925b2943-3e5a-43fe-976b-28cc37b061f8,MD11C,McDonnell Douglas,MD-11C,MD11,M1M,C05,Jet Fuel,Pressure,,282000,282,,,,,410,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 154.60",3,621703
+eebbd6e5-2bae-4533-b8a5-3e1a76733442,MD11F,McDonnell Douglas,MD-11F,MD11,M1F,C05,Jet Fuel,Pressure,,282000,282,,,,,410,,D,,,,115V/AC - 220V/DC,ADP GA : 5,"JP Handling Category(Japan): 2, Singapore WSSS PF(Singapore): 154.60",3,621703
+2a400e95-b625-41f2-a728-67f3e0524db8,MD500,McDonnell Douglas,MD-500 Defender,H500,,H01,,,240,3000,3,,,7.01,2.59,3,485,A,,,,,,,1,6614
+dc7713da-5a3f-46da-acee-68fe81f70f61,MD520,MD Helicopters,MD-520N,MD52,,B00,Avgas,Overwing,,2000,2,,,,,4,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,4409
+bf84f54a-312b-4577-9102-26a512cf738c,MD-600N,McDonnell Douglas,MD-600N,MD60,,B00,,,,1859,2,,,,,8,,,,,,,,,,4098
+501c8245-3cbc-4d15-b473-269e9a529072,MD81,McDonnell Douglas,MD-81,MD81,M81,C01,Jet Fuel,Pressure,,63000,63,,,,,172,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 5,2,138891
+367e73a2-c740-46bc-a0f6-7766533906da,MD82,McDonnell Douglas,MD-82,MD82,M82,C01,Jet Fuel,Pressure,,68000,68,,,,,142,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 5,2,149914
+22159a90-df84-465a-8594-f8ba9f0c7e56,MD83,McDonnell Douglas,MD-83,MD83,M83,C01,Jet Fuel,Pressure,0,73000,73,,,,,150,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 5,2,160937
+356da4d4-bec3-4ef8-a399-bf61642aa1ed,MD87,McDonnell Douglas,MD-87,MD87,M87,C_JP5,Jet Fuel,Pressure,,64000,64,,,,,120,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 5",2,141096
+7d66347f-7c4e-4e5b-ad2c-0d6532ffd76f,MD88,McDonnell Douglas,MD-88,MD88,M88,C01,Jet Fuel,Pressure,,68000,68,,,,,149,,C,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 5,2,149914
+0cb3f330-1fdd-42b7-b883-8ce52e3eac61,MD90,McDonnell Douglas,MD-90,MD90,,C01,Jet Fuel,Overwing,,71000,71,,,,,153,,C,,,,115V/AC - 220V/DC,ADP GA : 5,"MLW(Hawaii): 142000, Singapore WSSS PF(Singapore): 98.00",2,156528
+0ec16e5f-4b42-4397-a961-234e97ae76a2,MD900,MD Helicopters,MD-900 Explorer,EXPL,,H01,Jet Fuel,Overwing,,3057,4,,,10.31,3.66,6,,A,,,,115V/AC - 220V/DC,,,2,6740
+7a238e34-6acf-4801-9722-04b382fc89c0,MD-900,McDonnell Douglas,MD-900 Explorer,EXPL,,H01,,,,2835,3,,,,,7,,,,,,,,,,6250
+e3426f03-b721-4e1a-8611-05b311c1406c,MD902,McDonnell Douglas,MD-902 Explorer,EXPL,,H01,Jet Fuel,Pressure,611,3575,4,,,,,7,,A,,,,115V/AC - 220V/DC,,,,7882
+a1d32b82-934a-4646-8899-17995acc6d25,Mi-26,MIL,Mi-26,MI26,MIH,C00,Jet Fuel,Overwing,,56000,56,,,,,4,,,,,,,,,,123459
+50bc9aec-ed12-442e-8539-5c7544c7f0ec,MI-8,MIL,MI-8,MI8,MIH,H02,Jet Fuel,Overwing,,12000,12,,,,,32,,B,,,,115V/AC - 220V/DC,ADP GA : 4,,2,26455
+fd08fdad-d7bc-40f3-8994-9574f455bc9f,MINI-MIG,ZZZZ,AVIATIKA MAI-89,EINN,,B00,,,,400,1,,,,,,,,,,,,,,,882
+eded489c-84f1-423d-a90a-f767eedcdef0,MO20,Mooney,M-20,M20P,,B00,Avgas,Overwing,,2000,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,,4409
+bed0beaa-8b73-4bc2-a5b1-c9486811085a,MOONEY 201,Mooney,201,M20P,,B00,,,,2575,3,,,,,3,,,,,,,,MLW(Hawaii): 2575,,5677
+9b9542bb-8fb5-4651-8650-0f455a0c6833,MS894,Morane-Saulnier,MS-894 Minerva,RALL,,B00,Jet Fuel,Overwing,,1100,2,9.74,,,,4,,A,,,,115V/AC - 220V/DC,,,1,2425
+95501b1b-9328-42fd-92eb-ce2d4ac10c75,MU-2,Mitsubishi,MU-2 Marquise,MU2,,T02,Jet Fuel,Pressure,,5250,6,,,,,7,,A,,,,115V/AC - 220V/DC,,,2,11574
+8a550f25-fc84-464b-bbe0-87b4216edd1e,MU-2B,Mitsubishi,MU-2 Solitaire,MU2,,T01,Jet Fuel,Pressure,,5250,6,,,,,12,,A,,,,115V/AC - 220V/DC,,,2,11574
+97d49f42-7a8c-4f54-a597-3faa31509747,MU30,Mitsubishi,MU-300 Diamond,MU30,,B02,Jet Fuel,Pressure,0,7361,8,,0,,,7,,A,,,,115V/AC - 220V/DC,,,2,16228
+ba5fa083-15de-44bc-9755-89f54692ff7c,MUSTANG P51,North American Aviation,P51,EINN,,B00,,,,500,1,,,,,,,,,,,,,,,1102
+87ee8c6e-5e50-4cb8-9de4-d5d014f75670,MV-22,Bell-Boeing,Osprey,V22,,B10,,,,27400,28,,,,,,,,,,,,,,,60407
+3aad6f61-8a5d-41ed-b64e-73475d8c1e6c,NA,ZZZZ | N/A,NA,NA,NA,B00,,,,1,1,,,,,,,,,,,,,,,2
+f35149a7-0cb7-4864-854a-a445ffa937f6,NH90,NHIndustries,NH-90,NH90,,B03,,,,10600,11,,,,,20,,B,,,,,,,2,23369
+9d9d0e58-c3f5-4adc-9222-b93b11c8dd10,One-Eleven,British Aerospace,One-Eleven,BA11,,C00,Jet Fuel,Overwing,,47400,48,,,,,89,,C,,,,115V/AC - 220V/DC,,,2,104499
+2a830a08-3618-457f-8abb-8cfcdf358bf3,OV-10,Rockwell,OV-10 Bronco,V10,,T02,,,,6552,7,,,,,2,,,,,,,,,,14445
+7bfcc52a-eddb-4643-b74e-b3caf2e316f9,P180,Piaggio,P-180 Avanti,P180,,T04_JP8,Jet Fuel,Overwing,0,5250,6,,0,,,7,,A,,,,115V/AC - 220V/DC,THIS AIRCRAFT DOES NOT REQUIRE AN AIRPORT SLOT!!(Sietske Scheltinga),"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 30.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 20.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 15.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 20.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 49.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount ( One Empty leg) 88.00",2,11574
+2165d320-b2c7-4781-b57d-da93ef58adac,P2006T,Tecnam,P-2006T,P06T,,B00,,,,1000,1,,,,,3,,A,,,,,,,,2205
+bb959952-d281-461b-ba38-2c9e0f886c1a,P32R,Chincul SACAIFI ,Cherokee Lance ,P32R,,B00,Jet Fuel,Overwing,,3000,3,,,,,6,,A,,,,115V/AC - 220V/DC,,,1,6614
+bb9640f6-84a5-44f4-a333-8a80f9e5a7c9,P3B,Lockheed,P3B Orion,P3B,,C01,,,,64410,65,,,30.4,11.8,,8944,,,,,,,,4,142000
+cdff6e3a-7095-4abc-abb4-853f3fa46bed,P3C,Lockheed,P3 Orion,P3C,,T04,,,,64410,65,30.4,,35.6,11.8,,8944,,,,,,,,4,142000
+33a513d7-97dc-448c-a63a-8ecb3b349803,P600,Embraer,Praetor 600,E550,,B07,,,,19440,20,,,,,12,,,,,,,,,,42858
+98ee60ed-934a-468a-bd28-f8b23a7aa703,P68,Partenavia,AP-68TP-300 Spartacus,P68T,,B00,Avgas,Overwing,,1990,2,,,,,6,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 4100,2,4387
+9f9548eb-6fef-4a0f-8e0b-84323ccb56a4,P-68 OBSERVER,Vulcan Air,Vulcanair P-68 Observer,P68,,B00,,,,2084,3,,,,,,,,,,,,,,,4594
+46ec28e1-e579-48d5-9b67-4f944e03fe43,P750,Pacific Aerospace,PAC 750 XSTOL,P750,,P01,,,,3231,4,,,,,9,,,,,,,,,,7123
+353f1fff-5e58-4fcc-a047-05da459ad097,PA-18-50,Piper,PA-18-50 Super Cub,PA18,,B00,,,,750,1,10.73,16.58,6.88,2.02,,735,,,,,,,,,1653
+34ec3d83-e5c8-4d27-bb1f-eaee918236d9,PA23,Piper,Aztec,PA27,,B00,Avgas,Overwing,,2360,3,,,,,6,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 4940,2,5203
+def24b42-d0f0-4280-956b-c8c2f10ce74c,PA24,Piper,Comanche,PA24,,B00,Avgas,Overwing,,1200,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,2646
+18411755-1af6-45fc-a0d2-815dc9b07985,PA28,Piper,Cherokee,P28A,,B00,Avgas,Overwing,,1750,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,3858
+47c81db3-02f0-41bd-85a1-410cb4adf73f,PA-28-161,Piper,PA-28-161 WARRIOR II,PA28,,B00,,,,975,1,,,,,,,,,,,,,,,2150
+95b4a90a-6733-462a-8213-12754e4f098d,PA-28RT-201,Piper,PA-28RT-201 Cherokee Arrow IV,P28R,,B00,,,,1300,2,10.8,,7.5,2.4,4,,,,,,,,,,2866
+97eea892-1bb3-488e-bda2-da69b04b55fa,PA30,Piper,Twin Comanche,PA30,,B00,Avgas,Overwing,,1750,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,2,3858
+dda8bd5a-4f35-4017-a9db-25ce4c5eda8d,PA31-310,Piper,Navajo,PA31,,B00,Avgas,Overwing,,2955,3,,,,,8,,A,,,,115V/AC - 220V/DC,,,2,6515
+79a743bb-df38-4d4b-b984-bf6f68f75c3f,PA31-350,Piper,Chieftain,PA31,,B00,Avgas,Overwing,,3175,4,,,,,5,,A,,,,115V/AC - 220V/DC,,,2,7000
+2291eaf1-c2da-424d-afff-3c56093db781,PA31-350P,Piper,Mojave,PA31,,B00,Avgas,Overwing,,3265,4,,,,,5,,A,,,,115V/AC - 220V/DC,,,2,7198
+04199beb-a16a-4fac-a830-fe66b5173277,PA31-T1,Piper,Cheyenne,PAY2,,T01,Jet Fuel,Overwing,0,3946,4,,0,,,6,,A,,,,115V/AC - 220V/DC,,,2,8699
+094f1be6-67ed-47f3-a68f-5e8bb7aa82a4,PA31-T2,Piper,Cheyenne 2XL,PAY2,PAY2,T01,Jet Fuel,Overwing,,4335,5,13.01,,11.18,,6,,A,,,,115V/AC - 220V/DC,,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00",2,9557
+21fd60b7-6dcd-4540-9e7f-4d6d19ef0dca,PA-32,Piper,Saratoga,PA32,,B00,Avgas,Overwing,,1633,2,,,,,6,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 3400,1,3600
+da5d143f-8f02-48fc-8bcc-73c491450e72,PA34-200,Piper,Seneca,PA34,,P03,Avgas,Overwing,,2077,3,,,,,6,,A,,,,115V/AC - 220V/DC,,,2,4579
+ce883196-351a-46c4-9224-822913e2cbe4,PA42 CII,Piper,Cheyenne 2,PAY2,,B00,Jet Fuel,Overwing,0,4800,5,,0,,,6,,A,,,,115V/AC - 220V/DC,,,2,10582
+be01df92-1d00-4cf5-821f-d81276f766ac,PA42 CIII,Piper,Cheyenne 3,PAY3,,B01,Jet Fuel,Overwing,0,5125,6,,0,,,9,,A,,,,115V/AC - 220V/DC,,,2,11299
+82ed79b6-4112-4a3d-9d9e-9ffda1f1a225,PA42-1000,Piper,Cheyenne 400,PAY4,,B01,Avgas,Overwing,,5466,6,,,,,6,,A,,,,115V/AC - 220V/DC,,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00",2,12050
+200baaed-bb4c-4137-8924-41ec1b376236,PA44-180,Piper,Seminole,PA44,,B00,Avgas,Overwing,,1723,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,2,3799
+40182222-a3d7-42d8-84e2-9985573c5f30,PA46-310,Piper,Malibu,PA46,,T01,Jet Fuel,Overwing,0,1860,2,13.11,17,9.02,3.45,5,,A,,,,28V/DC,,,1,4101
+cf0af58e-f5e8-4441-8f65-d14dd925bf5d,PA46-350,Piper,Malibu Mirage,PA46,,T01,Jet Fuel,Overwing,,1950,2,13.11,16.3,8.81,3.44,5,,A,,,,115V/AC - 220V/DC,Fueltype checken!!,,1,4299
+78b40fc5-85d5-4fcd-bfa9-b497e99f6136,PA46-500,Piper,Malibu Meridian,PA46,PA46,B00,Jet Fuel,Overwing,0,1990,2,,0,,,5,,A,,,,115V/AC - 220V/DC,Fueltype checken!!,,1,4387
+97a55525-a327-40b7-9347-e754ef816f6e,PA-46-500TP,Piper,PA-46-500TP Malibu Meridian,P46T,,T01,,,,2310,3,13.1,,9,3.4,,1852,,,,,,,,1,5093
+7c1f8c7d-f212-4f6d-bb64-1cb27c6d5d1e,PA60,Piper,Aerostar,AEST,,B00,Avgas,Overwing,,2864,3,,,,,6,,A,,,,115V/AC - 220V/DC,,,,6314
+7233c324-1908-4144-9348-18d3efabccb2,PAY1,Piper,Cheyenne 1 ,PAY1,,B00,Jet Fuel,Overwing,,5000,5,,,,,6,,A,,,,115V/AC - 220V/DC,,,2,11023
+fb93b580-a20c-4878-8190-e03ea3bf67b0,PC12,Pilatus,PC-12,PC12,,T04_JP8,Jet Fuel,Overwing,0,4740,5,,0,,,9,,A,,,,115V/AC - 220V/DC,,"Greece Communication Fee(Greece): Communication Fee 10.00, Greece Coordination Fee(Greece): Coordination Fee 20.00, Greece Discounts(Greece): 8% Administrator Fee, Greece External Trans Discount(Greece): External Transporation Fee 25.00, Greece Internal Trans Discount(Greece): Internal Transporation Fee 10.00, Greece UAG Catering Delivery(Greece): UAG Catering Delivery 45.00, Greece UAG Supervision Fees(Greece): UAG Supervision Fee Discount 80.00, Greece UAG Supervision Fees (Empty Leg)(Greece): UAG Supervision Fees Discount (One Empty Leg) 119.00, Greece Visitors Card Dicount(Greece): UAG Visitors Card Fee 25.00, JP Handling Category(Japan): 8, Noise cat EGSS(STANSTED): CH14",1,10450
+82666256-5834-4e57-b1ee-a671b9a38436,PC-24,Pilatus,PC-24,PC24,,B02,Jet Fuel,,,8006,9,,,,,,,,,,,,,,,17650
+f9704f79-2365-4532-b3fb-1cd47f26d606,PC-6A/B/C,Pilatus,Turbo-Porter,PC6T,,B00,Jet Fuel,Overwing,,2400,3,,,,,6,,A,,,,115V/AC - 220V/DC,,,1,5291
+b43a5af6-985f-4d3d-b8f8-356d7af248e0,PC6P,Pilatus,Porter ,PC6P,,B00,Jet Fuel,Overwing,,3000,3,,,,,6,,A,,,,115V/AC - 220V/DC,,,1,6614
+8139f77d-6d24-4e75-a9b7-e6bd8e1f1995,PC9M,Pilatus,PC9M,PC9,,T01,Jet Fuel,,,3200,4,10.12,16.29,10.14,3.26,2,,,,,,,,,1,7055
+35859980-0f5a-4435-8889-c402c635d240,PRM1,Raytheon,390 Premier 1,PRM1,,B_JP8,Jet Fuel,Pressure & Overwing,2059,6000,6,1356,,1390,470,6,2662,A,,,,28V/DC,ADP GA : 4,Noise cat EGSS(STANSTED): CH14,2,13228
+138a185c-345b-478f-88f2-c63cbd782a42,R182,Cessna,182 Skylane RG,C182,,B00,Avgas,Overwing,,1338,2,,,,,4,,A,,,,28V/DC,Retractable Gear,,1,2950
+f49a0cec-304e-4084-96e4-9d68de1abe18,R22,Robinson,R-22 Beta,R22,,H01,Avgas,Overwing,,690,1,,,,,2,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 1370,,1521
+c2fb95b2-a7ae-4f74-9550-58f2abc83ee2,R44 Astro,Robinson,R-44 Astro,R44,,H01,Avgas,Overwing,177,1088,2,1005,,1197,362,3,499,A,,,,28V/DC,,,,2399
+5b5ba3b4-e4ba-4284-abbe-54ad7a37be2d,R44 Raven,Robinson,R-44 Raven,R44,,B00,,,0,1089,2,,0,,,4,,A,,,,,,MLW(Hawaii): 2400,1,2401
+d13f394e-0446-4d92-9ea8-30c3c8c0233c,R-66,Robinson,R-66,R66,,H01,,,,1225,2,,,,,,,,,,,,,,,2701
+783e5ce3-908b-463d-a3ce-85b43c38a228,RALLYE 110ST,Socata,RALLYE 110ST GALOPIN,RALL,,B00,,,,1050,2,,,,,4,,,,,,,,,,2315
+f452829e-7478-460b-a84d-75f345e68ea5,RC-12,Beech,RC-12 Huron,BE20,,T04_JP8,,,,6100,7,16.61,28.2,13.34,4.57,13,3338,,,,,,,,2,13448
+a7ffd28b-b7b4-4a4e-8a68-d52b7aeed2c9,RFAL,Dassault,Rafale Aircraft-Fighters from Airforce,RFAL,,B09,,,,24500,25,10.8,45.7,15.27,5.34,2,3700,,,,,,,,2,54013
+b45841c4-792d-4011-a477-912f1ba52d5c,RJ100,British Aerospace,RJ-100 Avroliner,RJ1H,,B14,Jet Fuel,Pressure,,44999,45,,,,,128,,A,,,,115V/AC - 220V/DC,MTOW per http://www.swiss.com/web/EN/fly_swiss/fleet_network/aircraft/Pages/avro_rj100.aspx,,4,99206
+97a80cac-4613-4f37-9564-0743c9be6cf4,RJ70,British Aerospace,RJ-70 Avroliner,RJ70,,B14,,,,43091,44,,,,,70,,A,,,,,,,4,94999
+2afcfa04-126c-4d58-b55d-90404783d1db,RJ85,British Aerospace,RJ-85 Avroliner,RJ85,,B14,Jet Fuel,Pressure,,43995,44,,,,,95,,A,,,,115V/AC - 220V/DC,,,4,96992
+2d2a5a54-9334-43cf-bd77-116a8912e541,S601,Aerospatiale,SN-601 Corvette,S601,,B01,Jet Fuel,Pressure,,6600,7,,,,,14,,A,,,,115V/AC - 220V/DC,ADP GA : 5,,2,14551
+4fdd99f3-7c12-4f6a-8ff6-7a98fcc0a790,S61N,Sikorsky,S-61N,S61,,B02,Jet Fuel,Pressure,,9000,9,,,,,30,,A,,,,115V/AC - 220V/DC,ADP GA : 4,Singapore WSSS PF(Singapore): 49.50,2,19842
+1e942513-6211-4d02-b6b8-0dfdc2f803a8,S-70,Sikorsky,S-70 Black Hawk,H60,,B02,,,,9997,10,,,,,11,,,,,,,,,,22040
+f5bc8b9d-e025-4b82-96c2-40b7e000c0e8,S-76,Sikorsky,S-76,S76,,T02,Jet Fuel,Pressure,,6000,6,,,,,12,,A,,,,115V/AC - 220V/DC,ADP GA : 4,"Greece Communication Fee(Greece): Communication Fee 20.00, Greece Coordination Fee(Greece): Coordination Fee 30.00",2,13228
+02370a6e-419b-4cd1-880d-d85353112398,S-76A,Sikorsky,S-76A,S76,S76,B01,Jet Fuel,Overwing,,6000,6,,,,,13,,A,,,,115V/AC - 220V/DC,,,,13228
+95c66830-c849-4c98-9ccf-89b2711b33c5,S-76B,Sikorsky,S-76B,S76,S76,B01,Jet Fuel,Pressure,,6000,6,,,,,12,,A,,,,115V/AC - 220V/DC,,,,13228
+16229430-1743-497b-9963-80e30ae60366,S-76C,Sikorsky,S-76C,S76,S76,B01,Jet Fuel,Pressure,,6000,6,,,,,12,,A,,,,115V/AC - 220V/DC,,,,13228
+648b65ee-284f-4c2c-ad13-d3dba273ce70,S92,Sikorsky,S-92 Helibus,S92,,H02,,,,12500,13,,,,,19,,B,,,,,,,2,27558
+00caa678-8ffd-4b2e-b663-942d8a770d40,SA-227BC,Fairchild Aerospace,SA-227BC Metro,SW4,,B02,,,,7257,8,,,,,,,,,,,,,,,15999
+5dbec02c-f3bb-40c8-86a7-05eb8053aba4,SA330,Aerospatiale,SA-330 Puma,PUMA,,H02,Jet Fuel,Overwing,,7400,8,,,,,20,,B,,,,115V/AC - 220V/DC,,,2,16314
+965cd95d-f72d-4de9-984a-0d50def2b1eb,SA341,Aerospatiale,SA-341 Gazelle,GAZL,,H01,Jet Fuel,Overwing,,1900,2,,,,,3,,A,,,,115V/AC - 220V/DC,,,1,4189
+c787223a-1d3f-4fa7-b614-bd9ceba047de,SA342,Aerospatiale,SA-342 Gazelle,GAZL,,C_JP2,Jet Fuel,Overwing,,1900,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,4189
+d9d3bc64-9391-49fe-9f7e-24b7881796a8,SA360,Aerospatiale,SA-360 Dauphin,S360,,B00,Jet Fuel,Overwing,,3400,4,,,,,9,,A,,,,115V/AC - 220V/DC,,,1,7496
+936c9ce7-3a05-411b-bb94-809241531b39,SA365C,Aerospatiale,SA365C Dauphin,AS65,,B00,Jet Fuel,Overwing,,3400,4,,,,,10,,A,,,,115V/AC - 220V/DC,,,2,7496
+0553585e-e844-471f-8b5d-42b3c75b7aa6,SAAB 2000,Saab,2000,SB20,S20,T04,Jet Fuel,Pressure,,21000,21,,,,,50,,B,,,,115V/AC - 220V/DC,ADP GA : 5,JP Handling Category(Japan): 6,2,46297
+a4037dac-bcd8-412b-ae0c-045f91981b3e,SAAB 340,Saab,SAAB 340,SF34,SF3,T03,Jet Fuel,Pressure,,13155,14,,,,,35,,B,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,29002
+c213d3bf-8512-46f2-a244-15d9349ec5f9,SB05,Saab,105/SK-60E,EINN,,B02,,,,8000,8,,,,,,,,,,,,,,,17637
+d0c03981-5a08-4060-8c6f-ab1f9ca3b060,SBR1,Rockwell,Sabre 65,SBR1,,B03,Jet Fuel,Pressure,,11000,11,,,,,10,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,24251
+ff1422e6-9ee3-4207-bf31-ad8a2e603b4b,SBR2,Rockwell,Sabre 75,SBR2,,B03,Jet Fuel,Overwing,,11000,11,,,,,10,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,2,24251
+7794390c-9f9c-4df8-abd5-5d8a3d4c8c4e,SBR40,Rockwell,Sabre 40,SBR1,,B02,,,,8894,9,,,,,7,,,,,,,,,,19608
+0ea5c7d4-e8a9-49ff-90d0-0a50f510e83a,SBR60,Rockwell,Sabre 60,SBR1,,B02,,,,9148,10,,,,,10,,,,,,,,,,20168
+2a26c66d-7110-477b-a81f-79c639db420d,SBR80,Rockwell,Sabre 80,SBR2,,B03,,,,10340,11,,,,,10,,,,,,,,,,22796
+589d9f64-eb7b-49df-b1dc-166cc09d2d0b,SC7,Shorts,Skyvan ,SC7,,B01,Jet Fuel,Overwing,,6000,6,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,13228
+939d751a-a03b-457b-bec4-77794999f306,SF25,Scheibe Aircraft GmbH,SF-25 Falke,SF25,,B00,,,,650,1,,,,,2,,A,,,,,,,1,1433
+f9b98afe-846f-46ca-9d6a-4c05b28e50f0,SH-2,Kaman,SH-2 Super Seasprite,H2,,B01,,,,5805,6,,,,,3,,,,,,,,,,12798
+d890bfac-19d9-4049-a99f-786b0bd95b93,SH330-100,Shorts,330-100,SH33,,B03,Jet Fuel,Pressure,,10160,11,,,,,30,,A,,,,115V/AC - 220V/DC,,,2,22399
+3cf8e0b2-6d49-4237-b1f5-0634f7326e47,SH330-200,Shorts,330-200,SH33,,B03,Jet Fuel,Pressure,,10387,11,,,,,30,,A,,,,115V/AC - 220V/DC,,,2,22899
+41da684a-7535-4b6d-a700-5e8226d0b451,SH360,Shorts,360,SH36,,T04_JP8,Jet Fuel,Pressure,,12292,13,,,,,36,,A,,,,115V/AC - 220V/DC,,MLW(Hawaii): 25700,2,27099
+36b81522-3d7f-4002-9f3b-9e4e37bdd071,SJ30,Emivest Aerospace Corporation,SJ-30,SJ30,,B01,Jet Fuel,Overwing,2755,6125,7,12.9,17.72,14.26,4.34,6,4626,A,,,,28V/DC,,,2,13503
+5bde0545-c044-4eca-901d-e8e64c1f5ebf,SK61,Sikorsky,Sea King,S61,,B02,Jet Fuel,Pressure,,8602,9,,,,,28,,A,,,,115V/AC - 220V/DC,,,2,18964
+ac35812e-4796-4733-b1cc-9544ef31a0df,SR20,Cirrus,SR-20,SR20,,B00,Avgas,Overwing,,1315,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,2899
+cebb9559-4daf-4ed3-a994-b01e46ea7bf6,SR22,Cirrus,SR-22,SR22,,T04_JP8,Avgas,Overwing,,1545,2,,,,,3,,A,,,,115V/AC - 220V/DC,,CAT LIDER(Brazil): A,1,3406
+4e6c313d-2a27-4018-8172-f03ec4af90e2,SU95,Sukhoi Company,Superjet 100-95,SU95,,B14,Jet Fuel,,,45880,46,,,,,,,,,,,,,,,101148
+582e3063-54de-46cd-af67-2cb53e6a5d89,SW2,Fairchild Aerospace,Merlin 2,SW2,,T02,Jet Fuel,Overwing,,8000,8,,,,,8,,A,,,,115V/AC - 220V/DC,,,2,17637
+674f2bac-5ebb-456d-a694-9b470d7275f7,SW3,Fairchild Aerospace,Merlin 3,SW3,,T02,Jet Fuel,Pressure,,8000,8,,,,,8,,A,,,,115V/AC - 220V/DC,,,2,17637
+0d4bd6a6-08b4-4f8e-9787-f83a570500eb,SW4 Merlin 23,Fairchild Aerospace,Merlin 23,SW4,,T02,Jet Fuel,Pressure,,7484,8,,,,,14,,A,,,,115V/AC - 220V/DC,,,2,16499
+9cff6fab-85cd-4dcc-9ae1-c01d84552994,SW4 Metro II,Fairchild Aerospace,Metro II,SW4,,B01,Jet Fuel,Pressure,,6600,7,,,,,19,,A,,,,115V/AC - 220V/DC,,,2,14551
+c87476ee-b8f1-491b-9e41-be3358dfe1b4,SW4 Metro III,Fairchild Aerospace,METRO III,SW4,,B02,,,,7500,8,,,,,19,,A,,,,,,MLW(Hawaii): 14000,2,16535
+82a4281a-e629-41ed-9d4f-feed15f86d68,T129,Turkish Aerospace Industries,T-129,A129,,B00,,,,5000,5,,,13.45,3.4,2,561,,,,,,,,,11023
+149fa666-4415-4ba8-8022-3d13cca7f0c5,T-50A,Lockheed,T50A,T50A,,B03,,,,11985,12,,,,,,,,,,,,,,,26422
+264c2462-3008-454f-90e7-4f623637e22a,TB10,Socata,TB-10 Tobago,TOBA,,B00,Jet Fuel,Overwing,,1060,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,1,2337
+0e87d85c-f044-40ad-b61b-1cd8c86ae3a4,TB20,Socata,TB-20 Trinidad,TRIN,,B00,Jet Fuel,Overwing,,1400,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,,3086
+44659252-0423-402b-84f0-0e4c42e78fce,TB21,Socata,TB-21 Trinidad,TRIN,,B00,Jet Fuel,Overwing,,1400,2,,,,,4,,A,,,,115V/AC - 220V/DC,,,,3086
+f5c8514f-9ca0-46e9-800e-a01051c34034,TBM700,Socata,TBM-700,TBM7,,T01,Jet Fuel,Overwing,,3000,3,,,,,4,,A,,,,115V/AC - 220V/DC,ADP GA : 4,,1,6614
+862489f5-ac98-4fa1-bb86-a11f102df7c2,TBM-700 (C1),Socata,TBM-700 (C1),TBM7,,B00,,,,2983,3,,,,,5,,,,,,,,,,6576
+93bd5e85-c6f2-41af-8e94-da7563a210f7,TBM-700 (C2),Socata,TBM-700 (C2),TBM7,,B00,,,,3353,4,,,,,6,,,,,,,,,,7392
+c9ec8a5d-2d24-48d5-b795-daa6c8cd17fd,TBM850,Socata,TBM-850,TBM8,,T04_JP8,Jet Fuel,,1066,3354,4,12.68,18,10.65,4.35,5,2813,A,,,,,,,1,7394
+a74e71dc-9ba8-4d67-a27e-d1c72432e5ed,TBM900,Socata,TBM-900,TBM9,,T01,,,,3354,4,,,,,6,,,,,,,,,1,7394
+8406461e-5ac5-4a3d-a208-da6eb3efffad,TU134,Tupolev,Tu-134,T134,,C00,Jet Fuel,Pressure,0,47000,47,,0,,,72,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 6,2,103617
+77cb44b3-9bf4-4f38-9ac6-135f31480a43,TU154,Tupolev,Tu-154,T154,,C02,Jet Fuel,Pressure,,100000,100,,,,,164,,D,,,,115V/AC - 220V/DC,,"JP Handling Category(Japan): 5, Singapore WSSS PF(Singapore): 98.00",3,220462
+5d91f1bb-1229-4cc4-b17c-fe781423c511,TU204,Tupolev,Tu-204,T204,,C_JP5,,,,94600,95,,,,,200,,,,,,,,Singapore WSSS PF(Singapore): 98.00,2,208557
+4b82543a-7f8b-49b0-8445-55062ccf6e95,TU234,Tupolev,Tu-234,T204,,C_JP5,,,,107000,107,,,,,200,,,,,,,,,2,235895
+d3e356c4-2b4a-4adc-b560-a046434f23ff,UAITO BE DELETED,Aero Vodochody,UAI ORDERS,UAI,,B00,Jet Fuel,,,1,1,,,,,1,,,,,,,,,,2
+020583a3-8fee-4eda-a655-81d6245261ea,UH60,Sikorsky,Black Hawk,H60,,H02,Jet Fuel,Pressure,0,12000,12,,0,,,3,,B,,,,115V/AC - 220V/DC,,,2,26455
+a2715ab6-6e73-422c-906a-69090a73e196,VANS RV8,ZZZZ,VANS RV8,EINN,,B00,,,,2000,2,,,,,,,,,,,,,,,4409
+5de88fb9-0095-4ed3-a3d2-e4cc7282f3ff,VC-25 (747-200),Boeing,VC-25,B742,,C06,Jet Fuel,Pressure,,374850,375,59.6,,70.7,19.3,102,12550,E,,,,115V/AC - 220V/DC,Air Force One,,4,826403
+591f0b92-e7bd-44ad-83fb-4cee854e5976,VCN235,ROKAF,ROKAF VCN235,VN35,,C_JP6,Jet Fuel,Pressure,,15100,16,,,,,,,A,,,,115V/AC - 220V/DC,,,,33290
+f338a56e-d7f1-4316-9999-dea592a5da56,VFW 614,VFW,VFW-614,VF14,,B07,Jet Fuel,Pressure & Overwing,,20800,21,,,,,44,,B,,,,115V/AC - 220V/DC,,,2,45856
+a0de7263-ac88-4ce5-8994-1a0f76ac9b63,VIGGEN,Saab,AJS 37 VIGGEN,EINN,,B02,Jet Fuel,Pressure,,8000,8,,,,,,,,,,,,,,,17637
+1c7a7f61-be97-4a37-9351-70b4f690a1b0,VISION SF50,Cirrus,Vision SF-50,SF50,,B00,,,,2727,3,,,,,,,,,,,,,,,6012
+05d0c93a-005a-4e6d-a12b-cfec4b2f06b4,W3 Sokol,PZL-Swidnik,W-3 Sokol,W3,,B01,,,,7000,7,,,,,12,,A,,,,,,,2,15432
+08536c12-9b65-42fd-a5d0-263482958b8a,Westwind,IAI,Westwind (1123),WW23,WWP,B02,Jet Fuel,Pressure,,9390,10,,,,,10,,A,,,,115V/AC - 220V/DC,,,2,20701
+f40f3cb4-c054-4caf-8f60-72a274f9480a,Westwind I,IAI,Westwind (1124),WW24,,B_JP8,,,,10682,11,,,,,10,,,,,,,,,,23550
+033f3eff-9034-4b94-bd68-24c7867825a5,Westwind II,IAI,Westwind (1124A),WW24,WWP,B_JP8,Jet Fuel,Pressure,,10682,11,,,,,10,,A,,,,115V/AC - 220V/DC,,,2,23550
+c179c492-944b-4f51-a761-15aa281c7a19,Y-12F,Harbin Aircraft Industry Group,Harbin Y-12F,Y12F,,B01,,,,5300,6,17.2,34.3,18.9,5.7,19,1340,,,,,,,,2,11684
+7055e3ee-f910-42b2-9bf6-1c1371b4d963,Y-8,Shaanxi,Y-8,AN12,,C_JP5,,,,61000,61,,,,,14,,,,,,,,,4,134482
+14cb62f4-f610-483e-8d62-8765e5a8ad3c,YAK40,Yakovlev,Yak-40,YK40,,B05,Jet Fuel,Pressure,,15500,16,,,,,32,,C,,,,115V/AC - 220V/DC,,JP Handling Category(Japan): 7,3,34172
+a1336dc0-13cd-434b-b332-c3da996819de,YAK42,Yakovlev,Yak-42,YK42,,C00,Jet Fuel,Pressure,0,57500,58,,0,,,120,,C,,,,115V/AC - 220V/DC,,,3,126766
+3d1521a4-e3c2-4463-881f-45419ea4af8e,ZZZZ,ZZZZ,ZZZZ,ZZZZ,,C00,,,,50000,50,,,,,,,,,,,,Unkown aircraft type,,,110231
+d5b7dc47-c588-4500-8fdf-701243bd831c,ZZZZTO BE DELETED,ZZZZ | N/A,ZZZZ,ZZZZ,,C00,,,,50000,50,,,,,,,,,,,,Unkown aircraft type,,,110231

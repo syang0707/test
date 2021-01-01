@@ -1,0 +1,13 @@
+name: BeautyEngine
+title: BeautyEngine
+username:
+account: universalaviationjapan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2851202
+bundleId: 3774513
+url: https://universalaviationjapan.shinyapps.io/BeautyEngine/
+when: 1603461411.0732
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: google-analytics.js|Log.10150001.csv|Log.10150002.csv|Log.10232219.csv|Log.10232221.csv|Log.10232224.csv|Log.10232226.csv|Log.10232227.csv|Log.10232230.csv|Log.10232234.csv|Log.10232235.csv|Log.10232236.csv|Log.10232237.csv|Log.10232239.csv|Log.10232240.csv|Log.10232241.csv|Log.10232242.csv|Log.10232245.csv|Log.10232247.csv|Log.10232248.csv|Log.10232249.csv|Log.10232250.csv|Log.10232252.csv|Log.10232254.csv|UVA.png
